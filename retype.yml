@@ -1,0 +1,22 @@
+input: .
+output: .retype
+url: # Add your website address here
+
+branding:
+  title: Submarine
+  label: Docs
+  
+meta:
+  title: " - Submarine Official Documentation"
+  
+links:
+- text: Github
+  link: https://github.com/oddeyemotion/submarine
+  icon: mark-github
+  
+- text: Home
+  link: /README.md
+  icon: home
+  
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
