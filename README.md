@@ -4,10 +4,10 @@ label: Preface
 ---
 
 !!!
-This is an alert I leave here for fun
+Updating contents
 !!!
 
-This website was created by [Arris](/contacts.md) (myself) as a personal portfolio to showcase some of my projects related to both Computer Science and Robotics.
+This [website](https://oddeyemotion.github.io/odd/) was created by [Arris](/contacts.md) (myself) as a personal portfolio to showcase some of my projects related to both Computer Science and Robotics.
 
 > I really hope I could get an internship somewhere in the industry :<
 

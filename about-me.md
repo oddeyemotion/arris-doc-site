@@ -1,5 +1,5 @@
 ---
-icon: dependabot
+icon: info
 label: About me
 ---
 
@@ -37,5 +37,5 @@ I was diagnosed with [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/)
 
 ### Technical skills
 !!!
-*updating...*
+*Available in future updates*
 !!!
