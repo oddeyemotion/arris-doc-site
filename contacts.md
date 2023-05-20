@@ -4,7 +4,7 @@ label: Contact and Emailing
 ---
 
 ### :icon-mail: Email
-Hang Le Thi Thuy\
+Hang Thi-Thuy Le\
 hang.le2911@hcmut.edu.vn
 
 ### :icon-people: Social medias & forums

@@ -1,7 +1,10 @@
-# Index
+---
+icon: dependabot
+label: 10⠀Index
+---
 
 ==- 10-19 ⠀About
-10 ⠀Index\
+10 ⠀[Index](/10-index-submarine.md) \
 11 ⠀About Submarine\
 12 ⠀License\
 13 ⠀Contact and emailing\
