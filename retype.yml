@@ -14,7 +14,7 @@ links:
   icon: mark-github
   
 - text: Home
-  link: info/README.md
+  link: /README.md
   icon: home
   
 footer:

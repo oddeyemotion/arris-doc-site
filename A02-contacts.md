@@ -1,6 +1,6 @@
 ---
 icon: dependabot
-label: Contact and Emailing
+label: A02⠀Contact and Emailing
 ---
 
 ### :icon-mail: Email

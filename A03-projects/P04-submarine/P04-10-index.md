@@ -1,6 +1,6 @@
 ---
 icon: dependabot
-label: 10⠀Index
+label: P04.10⠀Index
 ---
 
 ==- 10-19 ⠀About
@@ -10,8 +10,6 @@ label: 10⠀Index
 13 ⠀Contact and emailing\
 14 ⠀Other sites
 ===
-
-
 
 ==- 20-29 ⠀Project management
 20 ⠀Target\
