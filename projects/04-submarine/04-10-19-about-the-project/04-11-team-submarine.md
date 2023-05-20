@@ -20,5 +20,3 @@ Our members:
 ||| *⠀*
 [!button text="Back to Index"](/projects/04-submarine/04-10-19-about-the-project/04-10-index.md)
 |||
-
-We have strong academic background of mechanical/mechatronic engineering and full of spirits.

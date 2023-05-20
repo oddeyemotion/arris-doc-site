@@ -12,22 +12,22 @@ label: 04.10⠀Index
 ===
 
 === 04.20→29⠀Project management
-20 ⠀Target\
-21 ⠀Schedules & timestamps\
-22 ⠀Costs\
-23 ⠀Resources\
-24 ⠀Risk management\
-25 ⠀Rules\
-26 ⠀Media archive
+04.20 ⠀[Target](/projects/04-submarine/04-20-29-project-management/04-20-target.md)\
+04.21 ⠀[Schedules & timestamps](/projects/04-submarine/04-20-29-project-management/04-21-schedules.md)\
+04.22 ⠀[Costs](/projects/04-submarine/04-20-29-project-management/04-22-costs.md)\
+04.23 ⠀[Resources](/projects/04-submarine/04-20-29-project-management/04-23-resources.md)\
+04.24 ⠀[Risk management](/projects/04-submarine/04-20-29-project-management/04-24-risks.md)\
+04.25 ⠀[Rules](/projects/04-submarine/04-20-29-project-management/04-25-rules.md)\
+04.26 ⠀[Media](/projects/04-submarine/04-20-29-project-management/04-26-media.md)
 ===
 
 === 04.30→39⠀Technical details
-30 ⠀The design\
-31 ⠀Tools & materials\
-32 ⠀Hardware implementation\
-33 ⠀Software implementation\
-34 ⠀Testing\
-35 ⠀Performance\
-36 ⠀Optimization\
-37 ⠀Public archive
+04.30 ⠀The design\
+04.31 ⠀Tools & materials\
+04.32 ⠀Hardware implementation\
+04.33 ⠀Software implementation\
+04.34 ⠀Testing\
+04.35 ⠀Performance\
+04.36 ⠀Optimization\
+04.37 ⠀Version archive
 ===
