@@ -19,7 +19,7 @@ And that, basically, is the main reason for my passion with another field of stu
 I spent most of my time in university self-teaching everything about robotics. I have participated in some school contests as well, together with friends from different engineering majors. *(Pretty sad that I never got a chance to win any, but I absolutely adore every moment working in groups and having fun with them.)*
 ![](/about-me2.jpg)
 
-My hobbies, on the other hand, are pretty artistic: I like drawing/painting, digital music making and dancing. *I will write some more about these in the near future!*
+I am also active as a spare-time artist under the pseudonym "K". You may have seen me as "K" or one of my works (in terms of art) somewhere online.
 
 ### Positive and not-so-positive aspects
 ##### What I am capable of
@@ -36,6 +36,11 @@ I was diagnosed with [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/)
 - Random unintentional pondering sessions.
 
 ### Technical skills
+
+Programming languages: ```C/C++, Python, Java, HTML/CSS/Javascript```\
+Communication: ```Vietnamese, English, Polish, Cantonese```\
+Softwares: ```Autodesk Fusion 360, KiCAD, etc```
+
 !!!
-*Available in future updates*
+*More details in future updates*
 !!!
