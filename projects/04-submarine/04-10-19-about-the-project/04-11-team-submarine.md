@@ -3,7 +3,7 @@ icon: id-badge
 label: 04.11⠀Team Submarine
 ---
 
-Our team consists of 5 members:
+Our members:
 
 ||| [samdinh7](https://github.com/samdinh7)
 <a title="" href="https://github.com/samdinh7"><img width="128" src="https://avatars.githubusercontent.com/u/128203017?v=4"></a>
@@ -20,3 +20,5 @@ Our team consists of 5 members:
 ||| *⠀*
 [!button text="Back to Index"](/projects/04-submarine/04-10-19-about-the-project/04-10-index.md)
 |||
+
+We have strong academic background of mechanical/mechatronic engineering and full of spirits.
