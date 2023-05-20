@@ -13,21 +13,26 @@ label: 04.10⠀Index
 
 === 04.20→29⠀Project management
 04.20 ⠀[Target](/projects/04-submarine/04-20-29-project-management/04-20-target.md)\
-04.21 ⠀[Schedules & timestamps](/projects/04-submarine/04-20-29-project-management/04-21-schedules.md)\
-04.22 ⠀[Costs](/projects/04-submarine/04-20-29-project-management/04-22-costs.md)\
-04.23 ⠀[Resources](/projects/04-submarine/04-20-29-project-management/04-23-resources.md)\
-04.24 ⠀[Risk management](/projects/04-submarine/04-20-29-project-management/04-24-risks.md)\
-04.25 ⠀[Rules](/projects/04-submarine/04-20-29-project-management/04-25-rules.md)\
-04.26 ⠀[Media](/projects/04-submarine/04-20-29-project-management/04-26-media.md)
+04.21 ⠀[Mission](/projects/04-submarine/04-20-29-project-management/04-21-mission.md)\
+04.22 ⠀[Schedules & timestamps](/projects/04-submarine/04-20-29-project-management/04-22-schedules.md)\
+04.23 ⠀[Costs](/projects/04-submarine/04-20-29-project-management/04-23-costs.md)\
+04.24 ⠀[Resources](/projects/04-submarine/04-20-29-project-management/04-24-resources.md)\
+04.25 ⠀[Risk management](/projects/04-submarine/04-20-29-project-management/04-25-risks.md)\
+04.26 ⠀[Rules](/projects/04-submarine/04-20-29-project-management/04-26-rules.md)\
+04.27 ⠀[Media](/projects/04-submarine/04-20-29-project-management/04-27-media.md)
 ===
 
-=== 04.30→39⠀Technical details
-04.30 ⠀The design\
-04.31 ⠀Tools & materials\
-04.32 ⠀Hardware implementation\
-04.33 ⠀Software implementation\
-04.34 ⠀Testing\
-04.35 ⠀Performance\
-04.36 ⠀Optimization\
-04.37 ⠀Version archive
+=== 04.30→39⠀Training material
+04.30 ⠀Competitive robot structure
+===
+
+=== 04.40→49⠀Technical details
+04.40 ⠀The design\
+04.41 ⠀Tools & materials\
+04.42 ⠀Hardware implementation\
+04.43 ⠀Software implementation\
+04.44 ⠀Testing\
+04.45 ⠀Performance\
+04.46 ⠀Optimization\
+04.47 ⠀Version archive
 ===
