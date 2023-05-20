@@ -1,6 +1,6 @@
 ---
 icon: dependabot
-label: A01⠀About me
+label: About me
 ---
 
 ![](/about-me1.jpg)
@@ -36,4 +36,6 @@ I was diagnosed with [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/)
 - Random unintentional pondering sessions.
 
 ### Technical skills
-*blank*
+!!!
+*updating...*
+!!!

@@ -1,10 +1,10 @@
 ---
 icon: dependabot
-label: P04.10⠀Index
+label: 04.10⠀Index
 ---
 
-==- 10-19 ⠀About
-10 ⠀[Index](/10-index-submarine.md) \
+==- 10-19 ⠀About the project
+10 ⠀Index\
 11 ⠀About Submarine\
 12 ⠀License\
 13 ⠀Contact and emailing\
