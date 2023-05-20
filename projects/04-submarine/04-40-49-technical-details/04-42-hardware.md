@@ -1,6 +1,6 @@
 ---
 icon: cpu
-label: 04.32⠀Hardware implementation
+label: 04.42⠀Hardware implementation
 ---
 
 !!!
