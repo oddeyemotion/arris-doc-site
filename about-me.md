@@ -2,6 +2,7 @@
 icon: info
 label: About me
 ---
+# :icon-info: About me
 
 ![](/about-me1.jpg)
 Xin chào! This is Arris.\

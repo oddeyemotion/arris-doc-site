@@ -17,7 +17,7 @@ P04.15 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-
 === P04.20→29⠀Project management
 P04.20 ⠀[Target](/projects/P04-submarine/P04-20-29-project-management/P04-20-target.md)\
 P04.21 ⠀[Schedules & timestamps](/projects/P04-submarine/P04-20-29-project-management/P04-21-schedules.md)\
-P04.22 ⠀[Costs](/projects/P04-submarine/04-20-29-project-management/P04-22-costs.md)\
+P04.22 ⠀[Costs](/projects/P04-submarine/P04-20-29-project-management/P04-22-costs.md)\
 P04.23 ⠀[Resources](/projects/P04-submarine/P04-20-29-project-management/P04-23-resources.md)\
 P04.24 ⠀[Risk management](/projects/P04-submarine/P04-20-29-project-management/P04-24-risks.md)\
 P04.25 ⠀[Rules](/projects/P04-submarine/P04-20-29-project-management/P04-25-rules.md)\
