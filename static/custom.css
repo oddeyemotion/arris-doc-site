@@ -1,4 +1,5 @@
-<style>
+ @import 'https://raw.githubusercontent.com/oddeyemotion/odd/blob/main/static/stylesheet.css';
+
 /* Three columns side by side */
 .column {
   float: left;
@@ -53,27 +54,45 @@
 }
 
 a:link {
-  color: green;
+  color: #FFACAC;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: #FFACAC;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color: #ACC0FF;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: yellow;
+  color: #F3B352;
   background-color: transparent;
   text-decoration: underline;
 }
 
-</style>
+h1 {
+  color: grey;
+}
+
+span {
+  font-family: 'svn coders';
+  color: #FFACAC;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+html {
+  font-family: 'svn coders',arial,helvetica;
+}
+
+p { 
+	font-family: 'svn coders',arial,helvetica; 
+}
+
