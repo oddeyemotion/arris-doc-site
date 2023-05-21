@@ -89,5 +89,5 @@ span {
 
 html{
 	-webkit-text-size-adjust:100%;
-	font-family: 'coders';
+	font-family: 'coders' !important;
 }
