@@ -19,4 +19,4 @@ The site was generated with [Retype](https://retype.com/) - a text-based static 
 My best regards to the developers for such a free-of-charge yet so useful and really easy to use tool.
 
 ### Indexing structure
-You might notice the way I organize the pages - each has its own unique ID number. This method is called [Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/). It is a simple yet effective way to keep everything in control.  
+You might notice the way I organize the pages - each has its own unique ID number. This method is called [Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/). It is a simple yet effective system to keep everything in control.  

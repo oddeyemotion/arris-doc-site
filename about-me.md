@@ -42,3 +42,13 @@ Softwares: ```Autodesk Fusion 360, KiCAD, etc```
 !!!
 *More details in future updates*
 !!!
+
+### Miscellaneous
+
+Despite my overall image, I am a longtime Hip-hop listener. Check out one of my favorites:
+
+<div>
+  <div style="position:relative;padding-top:56.25%;">
+    <iframe src="https://www.youtube.com/embed/UmSkDAStKeE" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen></iframe>
+  </div>
+</div>
