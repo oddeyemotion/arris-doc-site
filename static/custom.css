@@ -1,4 +1,4 @@
- @import 'https://raw.githubusercontent.com/oddeyemotion/odd/blob/main/static/stylesheet.css';
+ @import 'https://cdn.rawgit.com/oddeyemotion/odd/blob/main/static/stylesheet.css';
 
 /* Three columns side by side */
 .column {
@@ -82,17 +82,17 @@ h1 {
 }
 
 span {
-  font-family: 'svn coders';
+  font-family: 'coders';
   color: #FFACAC;
   background-color: transparent;
   text-decoration: none;
 }
 
 html {
-  font-family: 'svn coders',arial,helvetica;
+  font-family: 'coders',arial,helvetica;
 }
 
 p { 
-	font-family: 'svn coders',arial,helvetica; 
+	font-family: 'coders',arial,helvetica; 
 }
 
