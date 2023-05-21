@@ -1,8 +1,8 @@
 ---
 icon: device-camera
-label: P04.28⠀Media
+label: P04.27⠀Media
 ---
-# Media
+# :icon-device-camera:⠀Media
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

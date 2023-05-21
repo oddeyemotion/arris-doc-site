@@ -2,7 +2,7 @@
 icon: archive
 label: P04.37⠀Version archive
 ---
-# Version archive
+# :icon-archive:⠀Version archive
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

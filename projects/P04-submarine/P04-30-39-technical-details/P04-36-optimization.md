@@ -2,7 +2,7 @@
 icon: package
 label: P04.36⠀Optimization
 ---
-# Optimization
+# :icon-package:⠀Optimization
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

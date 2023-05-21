@@ -2,7 +2,7 @@
 icon: light-bulb
 label: P04.30⠀The design
 ---
-# The design
+# :icon-light-bulb: The design
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

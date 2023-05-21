@@ -1,8 +1,8 @@
 ---
-icon: pulse
-label: P04.25⠀Risk management
+icon: repo
+label: P04.25⠀Rules
 ---
-# Risk management
+# :icon-repo:⠀Rules
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

@@ -1,8 +1,8 @@
 ---
 icon: globe
-label: P04.14⠀Other sites
+label: P04.15⠀Other sites
 ---
-# Other sites
+# :icon-globe:⠀Other sites
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 Updates and notices regarding this project are also available on:\

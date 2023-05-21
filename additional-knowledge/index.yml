@@ -2,4 +2,5 @@ input: .
 output: .retype
 url: # Add your website address here
 order: -100
-expanded: false
+icon: gear
+expanded: true

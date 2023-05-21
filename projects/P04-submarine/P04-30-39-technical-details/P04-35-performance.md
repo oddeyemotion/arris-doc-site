@@ -2,7 +2,7 @@
 icon: flame
 label: P04.35⠀Performance
 ---
-# Performance
+# :icon-flame:⠀Performance
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

@@ -1,8 +1,8 @@
 ---
-icon: feed-star
-label: P04.21⠀Mission
+icon: ruby
+label: P04.22⠀Costs
 ---
-# Mission
+# :icon-ruby: Costs
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

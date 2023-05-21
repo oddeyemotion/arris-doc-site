@@ -1,8 +1,8 @@
 ---
-icon: calendar
-label: P04.22⠀Schedule & timestamps
+icon: feed-merged
+label: P04.23⠀Resources
 ---
-# Schedule & timestamps
+# :icon-feed-merged:⠀Resources
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

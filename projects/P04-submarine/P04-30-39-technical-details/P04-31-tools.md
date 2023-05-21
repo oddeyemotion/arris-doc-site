@@ -2,7 +2,7 @@
 icon: tools
 label: P04.31⠀Tools & materials
 ---
-# Tools & materials
+# :icon-tools:⠀Tools & materials
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

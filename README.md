@@ -2,12 +2,25 @@
 icon: dependabot
 label: Preface
 ---
+# :icon-dependabot:⠀Preface
 
 !!!
 Update on May 20th, 2023: *Currently deploying entries for [Submarine](/projects/04-submarine.md) project.*
 !!!
 
-<a title="Credit: @stardust-specks on Tumblr" href="https://stardust-specks.tumblr.com/post/184284932522/fairydust-f2u-header-dont-delete-my-caption"><img alt="Art by [@stardust-specks](https://stardust-specks.tumblr.com/post/184284932522/fairydust-f2u-header-dont-delete-my-caption)" src="https://64.media.tumblr.com/aea033d9a7c041c222146d1af9874bd4/tumblr_pq61h5uUHE1wvcbfqo1_1280.gif"></a> 
+<style>
+figcaption {
+  color: #7D7D7D;
+  font-style: italic;
+  font-size: 14px;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+<figure>
+    <img src="https://64.media.tumblr.com/aea033d9a7c041c222146d1af9874bd4/tumblr_pq61h5uUHE1wvcbfqo1_1280.gif" alt="Credit: @stardust-specks on Tumblr">
+    <figcaption> Credit: <a href="https://stardust-specks.tumblr.com/post/184284932522/fairydust-f2u-header-dont-delete-my-caption">@stardust-specks</a> on Tumblr</figcaption>
+</figure>
 
 This [website](https://oddeyemotion.github.io/odd/) was created by [Arris](/contacts.md) (myself) as a personal portfolio to showcase some of my projects related to both Computer Science and Robotics.
 

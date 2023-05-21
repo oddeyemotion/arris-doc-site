@@ -1,8 +1,8 @@
 ---
 icon: feed-person
-label: P04.13⠀Contact
+label: P04.14⠀Contact
 ---
-# Contact
+# :icon-feed-person:⠀Contact
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 If you have any questions regarding the project or the team, please send your messages to our representative:

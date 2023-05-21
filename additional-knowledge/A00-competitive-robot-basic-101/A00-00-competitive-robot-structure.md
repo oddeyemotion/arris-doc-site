@@ -1,7 +1,8 @@
 ---
 icon: git-branch
-label: 04.30⠀Competitive robot structure
+label: A00.00⠀Competitive robot structure
 ---
+# :icon-git-branch: Competitive robot structure
 
 !!!
 Update on May 22nd, 2023: *I'm using translation tool on what I originally wrote for the team (in Vietnamese), I will re-write everything in future updates :<*

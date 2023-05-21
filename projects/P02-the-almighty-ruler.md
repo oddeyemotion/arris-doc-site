@@ -1,6 +1,6 @@
 ---
 icon: cloud-offline
-label: 02⠀The Almighty Ruler
+label: P02⠀The Almighty Ruler
 ---
 # The Almighty Ruler
 

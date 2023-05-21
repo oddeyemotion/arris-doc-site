@@ -1,6 +1,6 @@
 ---
 icon: cloud-offline
-label: 03⠀Pinky
+label: P03⠀Pinky
 ---
 # Pinky
 

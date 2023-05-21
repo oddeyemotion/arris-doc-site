@@ -1,8 +1,8 @@
 ---
 icon: ":mechanical_arm:"
-label: A01⠀Competitive robot basic 101
+label: A00⠀Competitive robot basic 101
 ---
-# Competitive robot basic 101
+# :mechanical_arm: Competitive robot basic 101
 
 !!!
 Update on May 22nd, 2023: *This article served as the training material for the project [Submarine](/projects/04-submarine.md). I'm using translation tool on what I originally wrote for the team (in Vietnamese), I will re-write everything in future updates :<*

@@ -1,8 +1,8 @@
 ---
 icon: verified
-label: P04.12⠀License
+label: P04.13⠀License
 ---
-# License
+# :icon-verified:⠀License
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 #### [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)

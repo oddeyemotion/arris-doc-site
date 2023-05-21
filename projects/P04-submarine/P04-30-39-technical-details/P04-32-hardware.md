@@ -2,7 +2,7 @@
 icon: cpu
 label: P04.32⠀Hardware implementation
 ---
-# Hardware implementation
+# :icon-cpu:⠀Hardware implementation
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

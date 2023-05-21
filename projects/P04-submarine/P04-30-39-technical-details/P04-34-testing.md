@@ -2,7 +2,7 @@
 icon: verified
 label: P04.34⠀Testing
 ---
-# Testing
+# :icon-verified:⠀Testing
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

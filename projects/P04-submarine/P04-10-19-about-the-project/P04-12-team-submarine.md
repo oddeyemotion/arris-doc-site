@@ -1,8 +1,8 @@
 ---
 icon: id-badge
-label: P04.11⠀Team Submarine
+label: P04.12⠀Team Submarine
 ---
-# Team Submarine
+# :icon-id-badge:⠀Team Submarine
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 Our members:
@@ -20,7 +20,6 @@ Our members:
 ||| [highzer0](https://github.com/highzer0)
 <a title="" href="https://github.com/highzer0"><img width="128" src="https://avatars.githubusercontent.com/u/128067323?v=4"></a>
 ||| *⠀*
-[!button text="Back to Index"](/projects/04-submarine/04-10-19-about-the-project/04-10-index.md)
+[!button text="Back to Index"](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md)
 |||
 
-[!button text="Back to Index"](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md)

@@ -1,6 +1,6 @@
 ---
 icon: cloud-offline
-label: 01⠀COVID-19 data analytics and forecasting
+label: P01⠀COVID-19 data analytics and forecasting
 ---
 # COVID-19 data analytics and forecasting
 

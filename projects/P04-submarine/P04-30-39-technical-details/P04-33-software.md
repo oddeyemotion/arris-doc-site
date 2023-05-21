@@ -2,7 +2,7 @@
 icon: code-square
 label: P04.33⠀Software implementation
 ---
-# Software implementation
+# :icon-code-square:⠀Software implementation
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

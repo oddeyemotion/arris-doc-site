@@ -1,8 +1,8 @@
 ---
-icon: trophy
+icon: feed-star
 label: P04.20⠀Target
 ---
-# Target
+# :icon-feed-star:⠀Target
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!
