@@ -91,3 +91,7 @@ html{
 	-webkit-text-size-adjust:100%;
 	font-family: 'coders' !important;
 }
+
+.font-body {
+	font-family: 'coders';
+}
