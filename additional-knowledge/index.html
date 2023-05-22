@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/submarine-documentation">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738089146856">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738090767848">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -28,11 +28,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/submarine-documentation/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=2.4.0.738089146856" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=2.4.0.738090767848" rel="stylesheet" />
 
-    <script type="text/javascript" src="../resources/js/config.js?v=2.4.0.738089146856" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=2.4.0.738090767848" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.4.0.738089146856" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.4.0.738090767848" data-turbo-eval="false" defer></script>
 
     <link href="./static/custom.css" rel="stylesheet">
 
@@ -295,48 +295,61 @@
     	font-family: 'coders' !important;
     }
 
-    .text-base {
+    .dark .text-base {
     	font-size: 1.5rem;
+    	text-shadow: 1.2px 1.2px #574C62;
     }
 
     .docs-markdown {
     	line-height: 1.2;
     }
 
-    .docs-markdown h1 {
+    .dark .docs-markdown h1 {
+        color: rgb(255 175 190/var(--tw-text-opacity));
     	font-size: 3.7rem;
     	font-weight: 580;
         line-height: 1;
+    	text-shadow: 2.8px 2.8px #425168;
     }
 
-    .docs-markdown h2 {
+    .dark .docs-markdown h2 {
+        color: rgb(255 255 255/var(--tw-text-opacity));
     	font-size: 3.3rem;
     	font-weight: 580;
         line-height: 1;
+    	text-shadow: 1.8px 1.8px #574C62;
     }
 
-    .docs-markdown h3 {
+    .dark .docs-markdown h3 {
+        color: rgb(255 255 255/var(--tw-text-opacity));
     	font-size: 2.9rem;
     	font-weight: 580;
         line-height: 1;
+    	text-shadow: 1.6px 1.6px #574C62;
     }
 
-    .docs-markdown h4 {
+    .dark .docs-markdown h4 {
+        color: rgb(255 255 255/var(--tw-text-opacity));
     	font-size: 2.5rem;
     	font-weight: 580;
         line-height: 1;
+    	text-shadow: 1.4px 1.4px #574C62;
     }
 
-    .docs-markdown h5 {
+    .dark .docs-markdown h5 {
+        color: rgb(255 255 255/var(--tw-text-opacity));
     	font-size: 2.1rem;
     	font-weight: 550;
         line-height: 1;
+    	text-shadow: 1.2px 1.2px #574C62;
     }
 
-    .docs-markdown h6 {
+    .dark .docs-markdown h6 {
+        color: rgb(255 255 255/var(--tw-text-opacity));
     	font-size: 1.8rem;
     	font-weight: 550;
         line-height: 1;
+    	text-shadow: 1px 1px #574C62;
     }
 
     .text-sm {
@@ -374,13 +387,13 @@
     }
 
     a:link {
-      color: #FFACAC;
+      color: #FFAFBE;
       background-color: transparent;
       text-decoration: none;
     }
 
     a:visited {
-      color: #FFACAC;
+      color: #FFAFBE;
       background-color: transparent;
       text-decoration: none;
     }
@@ -403,14 +416,6 @@
 
     .dark .docs-markdown a:not(.no-link), .dark .docs-markdown h1 .header-anchor-trigger, .dark .docs-markdown h2 .header-anchor-trigger, .dark .docs-markdown h3 .header-anchor-trigger, .dark .docs-markdown h4 .header-anchor-trigger, .dark .docs-markdown h5 .header-anchor-trigger, .dark .docs-markdown h6 .header-anchor-trigger {
     	color: rgb(255 172 172/var(--tw-text-opacity));
-    }
-
-    .dark .docs-markdown h1 {
-    	color: rgb(255 172 172/var(--tw-text-opacity));
-    }
-
-    .dark .docs-markdown h2, .dark .docs-markdown h3, .dark .docs-markdown h4, .dark .docs-markdown h5, .dark .docs-markdown h6 {
-        color: rgb(255 255 255/var(--tw-text-opacity));
     }
 
     .text-blue-600 {
@@ -449,7 +454,7 @@
         background-color: rgb(255 206 206/var(--tw-bg-opacity));
     }
 
-    span.text-sm.py-1\.5{
+    .dark span.text-sm.py-1\.5{
     	color: rgb(200 200 200) !important;
     	padding-bottom: .125rem;
         padding-top: .125rem;
