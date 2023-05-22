@@ -2,7 +2,7 @@
 icon: dependabot
 label: Preface
 ---
-# :icon-dependabot:⠀Preface
+# :icon-dependabot: Preface
 
 !!!
 Update on May 22nd, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*
