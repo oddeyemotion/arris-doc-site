@@ -15,10 +15,10 @@ Update on May 22nd, 2023: *Currently deploying entries for [Submarine](/projects
 
 <style>
 figcaption {
-  color: #7D7D7D;
+  color: #8D8D9D;
   font-style: italic;
-  font-size: 14px;
-  padding: 2px;
+  font-size: 19px;
+  padding: 1px;
   text-align: center;
 }
 </style>
