@@ -27,13 +27,15 @@ figcaption {
     <figcaption> MERC 2023 banner. Photo credit: <a href="https://www.facebook.com/photo.php?fbid=510479107908091&set=pb.100068380175688.-2207520000.&type=3">Creative Academic Techno Club - C.A.T - CLB Sáng tạo Học thuật Khoa Cơ Khí</a></figcaption>
 </figure>
 
-**MERC**, or *Mechanical Engineering Robot Contest*, is a robotics program hosted by [Creative Academic Techno Club - C.A.T](https://www.facebook.com/CreAcaTechnoCLub) - an academic club of [HCMUT](https://hcmut.edu.vn/tong-quan?lang=en)'s mechanical engineering department, composed of competitors from different universities in Ho Chi Minh City, Vietnam. The event encourages STEM learning and cooperation by hosting competitions between robots in a yearly changed game.
+**MERC**, or *Mechanical Engineering Robot Contest*, is a robotics program hosted by [C.A.T](https://www.facebook.com/CreAcaTechnoCLub) - an academic club of [HCMUT](https://hcmut.edu.vn/tong-quan?lang=en)'s mechanical engineering department, composed of competitors from different universities in Ho Chi Minh City, Vietnam. The event encourages STEM learning and cooperation by hosting competitions between robots in a yearly changed game.
 
 In a typical game, two teams are labeled as different colors and they compete against each other for points. The team that has the most points wins the match.
 
-## MERC 2023 theme - Castle Warfare <sup><a href="#section1">[1]</a></sup>
+## MERC 2023 theme - *Castle Warfare* <sup><a href="#section1">[1]</a></sup>
 
-aaaaaa
+!!!
+*More details in future updates*
+!!!
 
 <style>
 section1 {

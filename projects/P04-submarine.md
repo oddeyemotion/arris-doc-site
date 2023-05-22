@@ -1,8 +1,8 @@
 ---
-icon: ":large_orange_circle:"
+icon: ":game_die:"
 label: P04⠀Submarine
 ---
-# :large_orange_circle: Submarine
+# :game_die: Submarine
 
 ![](/projects/P04-submarine/media/intro-submarine.JPG)
 

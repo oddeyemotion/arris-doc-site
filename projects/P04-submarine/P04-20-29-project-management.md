@@ -1,8 +1,8 @@
 ---
-icon: ":large_blue_circle:"
+icon: ":joystick:"
 label: P04.20 > 29⠀Project management
 ---
-# :large_blue_circle: Project management
+# :joystick: Project management
 
 !!!
 Update on May 22nd, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*

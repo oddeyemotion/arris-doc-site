@@ -1,8 +1,8 @@
 ---
-icon: ":large_blue_circle:"
+icon: ":joystick:"
 label: P04.10 > 19⠀About the project
 ---
-# :large_blue_circle: About the project
+# :joystick: About the project
 
 !!!
 Update on May 22nd, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*
