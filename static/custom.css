@@ -65,8 +65,9 @@ span {
   text-decoration: none;
 }
 
-html{
+html.h-full.dark {
 	-webkit-text-size-adjust:120%;
 	font-size: 14px;
+	line-height: 1.2;
 	font-family: 'coders' !important;
 }
