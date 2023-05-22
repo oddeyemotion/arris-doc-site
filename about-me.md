@@ -4,7 +4,7 @@ label: About me
 ---
 # :icon-info: About me
 
-![](/about-me1.jpg)
+![](/media/about-me1.jpg)
 Xin chào! This is Arris.\
 I am a university student based in Ho Chi Minh City, Vietnam.
 
@@ -16,7 +16,7 @@ Currently, I am working towards my bachelor's degree in ***Computer Science***.
 Despite being active in one of the most heavily-theoretical field (in my opinion), I have found that I do better on tasks that require a lot of physical practice. And that was basically the main reason why my passion for another field of study was sparked - ***Robotics***.
 
 I have been spending most of my time in university self-teaching everything about robotics. I have participated in some school contests as well, together with friends from different engineering majors. *(Pretty sad that I never got a chance to win any, but I absolutely adore every moment working in groups and having fun with them.)*
-![](/about-me2.jpg)
+![](/media/about-me2.jpg)
 
 I am also working as a spare-time artist under the alias "K". You may have seen me as "K" or one of my works (in terms of art) somewhere online.
 
