@@ -1,4 +1,14 @@
- @import 'https://raw.githubusercontent.com/oddeyemotion/odd/main/static/stylesheet.css';
+@font-face {
+    font-family: 'coders';
+    src: url('https://raw.githubusercontent.com/oddeyemotion/odd/main/_includes/svncodercrux-webfont.eot');
+    src: url('https://raw.githubusercontent.com/oddeyemotion/odd/main/_includes/svncodercrux-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://raw.githubusercontent.com/oddeyemotion/odd/main/_includes/svncodercrux-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/oddeyemotion/odd/main/_includes/svncodercrux-webfont.woff') format('woff'),
+         url('https://raw.githubusercontent.com/oddeyemotion/odd/main/_includes/svncodercrux-webfont.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/oddeyemotion/odd/main/_includes/svncodercrux-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 /* Three columns side by side */
 .column {
