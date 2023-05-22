@@ -4,18 +4,6 @@ label: P04⠀Submarine
 ---
 # :large_orange_circle: Submarine
 
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-text
-
 ![](/projects/P04-submarine/media/intro-submarine.JPG)
 
 !!!
