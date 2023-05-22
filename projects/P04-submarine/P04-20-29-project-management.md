@@ -1,6 +1,6 @@
 ---
 icon: ":large_blue_circle:"
-label: P04.20→29⠀Project management
+label: P04.20 > 29⠀Project management
 ---
 # :large_blue_circle: Project management
 

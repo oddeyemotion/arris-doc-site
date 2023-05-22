@@ -1,6 +1,6 @@
 ---
 icon: ":large_blue_circle:"
-label: P04.30→39⠀Technical details
+label: P04.30 > 39⠀Technical details
 ---
 # :large_blue_circle: Technical details
 

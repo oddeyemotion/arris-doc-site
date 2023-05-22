@@ -43,10 +43,6 @@
   display: table;
 }
 
-.h1 {
-  color: grey;
-}
-
 .button {
   border: none;
   outline: 0;
@@ -71,6 +67,6 @@ span {
 
 html{
 	-webkit-text-size-adjust:150%;
-	font-size: 1rem;
+	font-size: 14px;
 	font-family: 'coders' !important;
 }

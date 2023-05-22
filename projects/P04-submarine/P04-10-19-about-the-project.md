@@ -1,6 +1,6 @@
 ---
 icon: ":large_blue_circle:"
-label: P04.10→19⠀About the project
+label: P04.10 > 19⠀About the project
 ---
 # :large_blue_circle: About the project
 
