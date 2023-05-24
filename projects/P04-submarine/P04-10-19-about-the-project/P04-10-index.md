@@ -5,7 +5,7 @@ label: P04.10⠀Index
 # :icon-bookmark-fill: Index
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
-=== P04.10 > 19⠀About the project
+==- P04.10 > 19⠀About the project
 P04.10 ⠀[Index](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md)\
 P04.11 ⠀[Mission](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-mission.md)\
 P04.12 ⠀[Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md)\
@@ -14,7 +14,7 @@ P04.14 ⠀[Contact](/projects/P04-submarine/P04-10-19-about-the-project/P04-14-c
 P04.15 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md)
 ===
 
-=== P04.20 > 29⠀Project management
+==- P04.20 > 29⠀Project management
 P04.20 ⠀[Target](/projects/P04-submarine/P04-20-29-project-management/P04-20-target.md)\
 P04.21 ⠀[Schedules & timestamps](/projects/P04-submarine/P04-20-29-project-management/P04-21-schedules.md)\
 P04.22 ⠀[Costs](/projects/P04-submarine/P04-20-29-project-management/P04-22-costs.md)\
@@ -27,7 +27,7 @@ P04.27 ⠀[Media](/projects/P04-submarine/P04-20-29-project-management/P04-27-me
 
 === P04.30 > 39⠀Technical details
 P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md)\
-P04.31 ⠀[Tools & materials](/projects/P04-submarine/P04-30-39-technical-details/P04-31-tools.md)\
+P04.31 ⠀[Catalogue of components](/projects/P04-submarine/P04-30-39-technical-details/P04-31-catalogue-of-components.md)\
 P04.32 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware.md)\
 P04.33 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-software.md)\
 P04.34 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md)\

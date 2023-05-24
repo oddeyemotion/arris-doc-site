@@ -5,8 +5,6 @@ label: P04.30⠀The design
 # :icon-light-bulb: The design
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
-!!!
-Update on May 22nd, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*
-!!!
+P04.31.00 ⠀[Cardboard design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design/P04-30-00-cardboard-design.md)
 
 [!button text="Back to Index"](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md)

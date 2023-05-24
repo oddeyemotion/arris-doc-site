@@ -44,7 +44,7 @@ Softwares: ```Autodesk Fusion 360, KiCAD, etc```
 
 <style>
 figcaption {
-  color: #8D8D9D;
+  color: #9D9D9D;
   font-style: italic;
   font-size: 19px;
   padding: 1px;
@@ -53,7 +53,7 @@ figcaption {
 </style>
 
 <figure>
-    <img src="https://raw.githubusercontent.com/oddeyemotion/odd/main/media/about-me3.png alt="A Fusion 360 screenshot">
+    <img src="https://raw.githubusercontent.com/oddeyemotion/odd/main/media/about-me3.png" alt="A Fusion 360 screenshot">
     <figcaption>A Fusion 360 screenshot</figcaption>
 </figure>
 
