@@ -37,16 +37,15 @@ In a typical game, two teams are labeled as different colors and they compete ag
 !!!
 
 <div>
-<style>
-section1 {
-  color: #7D7D7D;
-  font-style: italic;
-  font-size: 14px;
-  padding: 2px;
-}
-</style>
-
-<p id="section1"><sup>[1]</sup> Vietnamese: Công thành chiến. Refers to medieval land conquests in history where groups of armed soldiers clash to take control of territories.</p>
+	<style>
+		section1 {
+			color: #7D7D7D;
+			font-style: italic;
+			font-size: 14px;
+			padding: 2px;
+		}
+	</style>
+	<p id="section1"><sup>[1]</sup> Vietnamese: Công thành chiến. Refers to medieval land conquests in history where groups of armed soldiers clash to take control of territories.</p>
 </div>
 
 <figure>
