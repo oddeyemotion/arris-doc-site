@@ -37,6 +37,7 @@ In a typical game, two teams are labeled as different colors and they compete ag
 *More details in future updates*
 !!!
 
+<div>
 <style>
 section1 {
   color: #7D7D7D;
@@ -46,9 +47,8 @@ section1 {
 }
 </style>
 
-<p id="section1"> [1] Vietnamese: Công thành chiến. Refers to medieval land conquests in history where groups of armed soldiers clash to take control of territories.</p>
-
-[!button <a href="#toppage">Back to top</a>]()
+<p id="section1"><sup>[1]</sup> Vietnamese: Công thành chiến. Refers to medieval land conquests in history where groups of armed soldiers clash to take control of territories.</p>
+</div>
 
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">

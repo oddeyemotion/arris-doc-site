@@ -29,7 +29,11 @@ This [website](https://oddeyemotion.github.io/odd/) was created by [Arris](/cont
 ### Site development
 The site was generated with [Retype](https://retype.com/) - a text-based static website generator. All pages was written in [Markdown](https://www.markdownguide.org/getting-started/). This really helps optimizing my time to focus on the detail rather than desperately trying to develop everything from scratch. My best regards to the developers for such a free yet so useful and really easy to use tool.
 
-For advanced retro experience, I use some pixelated components from NES.css. I am very appreciated.
+For an even more authentic retro experience, I applied some pixelated components from [NES.css](https://github.com/nostalgic-css/NES.css/tree/develop). I sincerely appreciate their dedication in developing this beautiful collection and bringing it to the public.
 
 ### Indexing structure
 You might notice the way I organize the pages - each has its own unique ID number. This method is called [Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/). It is a simple yet effective system to keep everything in control.  
+
+<figure>
+    <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
+</figure>
