@@ -40,6 +40,22 @@ Programming languages: ```C/C++, Python, Java, HTML/CSS/Javascript```\
 Communication: ```Vietnamese, English, Polish, Cantonese```\
 Softwares: ```Autodesk Fusion 360, KiCAD, etc```
 
+![A Fusion 360 screenshot](/media/about-me3.png)
+
+<style>
+figcaption {
+  color: #8D8D9D;
+  font-style: italic;
+  font-size: 19px;
+  padding: 1px;
+  text-align: center;
+}
+</style>
+<figure>
+    <img src="./media/about-me3.png" alt="A Fusion 360 screenshot" />
+    <figcaption>A Fusion 360 screenshot</figcaption>
+</figure>
+
 !!!
 *More details in future updates*
 !!!
