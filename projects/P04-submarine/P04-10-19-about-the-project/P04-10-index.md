@@ -27,11 +27,12 @@ P04.27 ⠀[Media](/projects/P04-submarine/P04-20-29-project-management/P04-27-me
 
 === P04.30 > 39⠀Technical details
 P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md)\
-P04.31 ⠀[Catalogue of components](/projects/P04-submarine/P04-30-39-technical-details/P04-31-catalogue-of-components.md)\
-P04.32 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware.md)\
-P04.33 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-software.md)\
-P04.34 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md)\
-P04.35 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-35-performance.md)\
-P04.36 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-36-optimization.md)\
-P04.37 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-37-version-archive.md)
+P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md)\
+P04.32 ⠀[Components](/projects/P04-submarine/P04-30-39-technical-details/P04-32-components.md)\
+P04.33 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-hardware.md)\
+P04.34 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-34-software.md)\
+P04.35 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-35-testing.md)\
+P04.36 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-36-performance.md)\
+P04.37 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-37-optimization.md)\
+P04.38 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-38-version-archive.md)
 ===

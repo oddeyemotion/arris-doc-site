@@ -1,8 +1,8 @@
 ---
-icon: package
-label: P04.36⠀Optimization
+icon: archive
+label: P04.38⠀Version archive
 ---
-# :icon-package:⠀Optimization
+# :icon-archive:⠀Version archive
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

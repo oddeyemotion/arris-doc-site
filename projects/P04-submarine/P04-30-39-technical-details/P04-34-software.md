@@ -1,8 +1,8 @@
 ---
-icon: cpu
-label: P04.32⠀Hardware implementation
+icon: code-square
+label: P04.34⠀Software implementation
 ---
-# :icon-cpu:⠀Hardware implementation
+# :icon-code-square:⠀Software implementation
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

@@ -1,8 +1,8 @@
 ---
-icon: archive
-label: P04.37⠀Version archive
+icon: verified
+label: P04.35⠀Testing
 ---
-# :icon-archive:⠀Version archive
+# :icon-verified:⠀Testing
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

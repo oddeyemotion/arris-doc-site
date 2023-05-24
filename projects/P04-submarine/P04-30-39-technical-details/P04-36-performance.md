@@ -1,8 +1,8 @@
 ---
-icon: verified
-label: P04.34⠀Testing
+icon: flame
+label: P04.36⠀Performance
 ---
-# :icon-verified:⠀Testing
+# :icon-flame:⠀Performance
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!

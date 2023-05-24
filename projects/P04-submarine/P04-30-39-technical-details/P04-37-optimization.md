@@ -1,8 +1,8 @@
 ---
-icon: flame
-label: P04.35⠀Performance
+icon: package
+label: P04.37⠀Optimization
 ---
-# :icon-flame:⠀Performance
+# :icon-package:⠀Optimization
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!
