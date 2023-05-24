@@ -6,38 +6,106 @@ label: P04.31.00⠀Mechanical equipment
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 ### Hand tools
-Screwdrivers | z |Blue
---- | --- | ---
-Hex key set | For hex nuts |Blue
-Scissors | Obvious usage |Green
-Long-nose pliers | z |Green
-Diagonal-cutting pliers | z |Green
-Mini drill set | z |Green
-Hot glue gun | z |Green
-Lighter | z |Green
+
+==- Screwdrivers
+aaaaa
++++ Regular
+This is an apple 🍎
++++ Hex key set
+This is an orange 🍊
++++ Banana
+This is a banana 🍌
++++
+===
+
+==- Pliers
++++ Long-nose pliers
+This is an apple 🍎
++++ Diagonal-cutting pliers
+This is an orange 🍊
++++ hehe
+This is a banana 🍌
++++
+===
+
+==- Scissors
+aaa
+===
+
+==- Mini drill
+aaa
+===
+
+==- Hot glue gun
+aaa
+===
 
 ### Measurement
-Measuring tape | z |Green
---- | --- | ---
-Calliper | z |Blue
+==- Measuring tape
+![](https://cdn.shopify.com/s/files/1/0016/5032/7651/products/36002-new.jpg?v=1551679256&width=1445)
+===
+
+==- Calliper
+![](https://m.media-amazon.com/images/I/51ufZPKZmLL._AC_SL1000_.jpg)
+===
 
 ### Mechanical fasteners
-M2 > M5 bolts & nuts | z |Blue
---- | --- | ---
-Washers | z |Green
+==- Bolts and nuts
+aaaaa
++++ Apple
+This is an apple 🍎
++++ Orange
+This is an orange 🍊
++++ Banana
+This is a banana 🍌
++++
+===
+
+==- Washers
+aaa
+===
 
 ### Straps and adhesives
-Rubber or elastic bands | z |Blue
---- | --- | ---
-Zip cable ties | z |Green
-Super glue | z |Green
-Tape | z |Green
-Tack clay | z |Green
+==- Elastic
++++ Rubber bands
+This is an apple 🍎
++++ Nylon elastic cords
+This is an orange 🍊
++++
+===
+
+==- Zip cable ties
+aaa
+===
+
+==- Glue
++++ Super glue
+This is an apple 🍎
++++ another glue
+This is an orange 🍊
++++
+===
+
+==- Tape
+aaa
+===
+
+==- Tack clay
+aaa
+===
 
 ### Miscellaneous
-Building blocks | z |Blue
---- | --- | ---
-Air dry or polymer clay  | z |Green
+==- Building blocks
+aaa
+===
+
+==- Modeling clay
++++ Air dry clay
+This is an apple 🍎
++++ Polymer clay
+This is an orange 🍊
++++
+===
 
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">

@@ -16,6 +16,9 @@ Generally accepted as the simplest way to 3D print stuff, FDM is accessible, rea
 
 For the sake of simplicity, you can use external 3D printing services.
 
+|
+--- | ---
+
 ### Laser cutter
 For the sake of simplicity, you can use external laser cutting services.
 

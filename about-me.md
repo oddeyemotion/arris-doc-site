@@ -10,6 +10,9 @@ I am a university student based in Ho Chi Minh City, Vietnam.
 
 Clearly Arris is not my real name, but from time to time I got a lot of people struggling with the pronunciation, so for now, please refer to me by that.
 
+|
+--- | ---
+
 ### Fields of interest
 Currently, I am working towards my bachelor's degree in ***Computer Science***.
 
@@ -19,6 +22,9 @@ I have been spending most of my time in university self-teaching everything abou
 ![](/media/about-me2.jpg)
 
 I am also working as a spare-time artist under the alias "K". You may have seen me as "K" or one of my works (in terms of art) somewhere online.
+
+|
+--- | ---
 
 ### Positive and not-so-positive aspects
 ##### What I am capable of
@@ -33,6 +39,9 @@ I was diagnosed with [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/)
 - Relative to the above: Unable to process if I was forced to listen to multiple sounds from different sources. However, I can distinguish sounds if they come from one source only (such as a recorded audio file).
 - Extreme dehydration.
 - Random unintentional pondering sessions.
+
+|
+--- | ---
 
 ### Technical skills
 
@@ -60,6 +69,9 @@ figcaption {
 !!!
 *More details in future updates*
 !!!
+
+|
+--- | ---
 
 ### Miscellaneous
 
