@@ -5,6 +5,10 @@ label: P04.32.00⠀Framework materials
 # :icon-dependabot:⠀Framework materials
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+!!!
+*More details in future updates*
+!!!
+
 The following segments summarizes some design-relevant materials and their properties.
 
 ### Shaped aluminum

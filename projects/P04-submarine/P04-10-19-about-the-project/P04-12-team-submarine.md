@@ -5,6 +5,10 @@ label: P04.12⠀Team Submarine
 # :icon-id-badge:⠀Team Submarine
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+!!!
+*More details in future updates*
+!!!
+
 Our members:
 
 ||| [samdinh7](https://github.com/samdinh7)

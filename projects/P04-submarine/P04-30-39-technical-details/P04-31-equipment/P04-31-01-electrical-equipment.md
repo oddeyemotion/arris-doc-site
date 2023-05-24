@@ -5,6 +5,10 @@ label: P04.31.01⠀Electrical equipment
 # :icon-dependabot:⠀Electrical equipment
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+!!!
+*More details in future updates*
+!!!
+
 ### Safety
 ==- VOM
 aaa

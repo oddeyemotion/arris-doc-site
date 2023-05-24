@@ -5,6 +5,10 @@ label: P04.31.00⠀Mechanical equipment
 # :icon-dependabot:⠀Mechanical equipment
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+!!!
+*More details in future updates*
+!!!
+
 ### Hand tools
 
 ==- Screwdrivers

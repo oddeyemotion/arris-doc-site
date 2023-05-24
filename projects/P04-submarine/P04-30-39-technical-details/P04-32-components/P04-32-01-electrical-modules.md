@@ -5,6 +5,10 @@ label: P04.32.01⠀Electrical modules
 # :icon-dependabot:⠀Electrical modules
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+!!!
+*More details in future updates*
+!!!
+
 ### Controller
 Arduino Mega 2560
 

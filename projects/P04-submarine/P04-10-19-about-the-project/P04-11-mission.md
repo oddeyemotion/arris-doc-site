@@ -3,7 +3,6 @@ icon: trophy
 label: P04.11⠀Mission
 ---
 # :icon-trophy: Mission
-<p id="toppage"> </p>
 
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
