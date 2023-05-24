@@ -1,4 +1,4 @@
 ---
 icon: ":books:"
-label: Additional knowledge
+label: Additional studies
 ---
