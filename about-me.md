@@ -51,8 +51,9 @@ figcaption {
   text-align: center;
 }
 </style>
+
 <figure>
-    <img src="./media/about-me3.png" alt="A Fusion 360 screenshot" />
+    <img src="https://raw.githubusercontent.com/oddeyemotion/odd/main/media/about-me3.png alt="A Fusion 360 screenshot">
     <figcaption>A Fusion 360 screenshot</figcaption>
 </figure>
 
