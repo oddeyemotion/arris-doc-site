@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/odd">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738223026318">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738225003136">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -31,11 +31,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/odd/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../../../resources/css/retype.css?v=2.4.0.738223026318" rel="stylesheet" />
+    <link href="../../../../../resources/css/retype.css?v=2.4.0.738225003136" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../../../../resources/js/config.js?v=2.4.0.738223026318" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../../../../resources/js/config.js?v=2.4.0.738225003136" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../../../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../../../../resources/js/lunr.js?v=2.4.0.738223026318" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../../../../resources/js/lunr.js?v=2.4.0.738225003136" data-turbo-eval="false" defer></script>
 
     <link href="./static/custom.css" rel="stylesheet">
     <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
@@ -222,24 +222,14 @@
         <span>Safety</span>
     </h3>
 </doc-anchor-target>
-<div class="table-wrapper scrollbar overflow-hidden">
-<table class="comfortable">
-<thead>
-<tr>
-<th>VOM</th>
-<th>z</th>
-<th>Blue</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Electric tester screwdriver</td>
-<td>z</td>
-<td>Green</td>
-</tr>
-</tbody>
-</table>
-</div>
+<doc-panel id="vom" collapsed>
+    <template #title>VOM</template>
+<p>aaa</p>
+</doc-panel>
+<doc-panel id="electric-tester-screwdriver" collapsed>
+    <template #title>Electric tester screwdriver</template>
+<p>aaa</p>
+</doc-panel>
 <doc-anchor-target id="soldering-accessories">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#soldering-accessories">#</doc-anchor-trigger>
@@ -247,88 +237,79 @@
     </h3>
 </doc-anchor-target>
 <p>Soldering is a critical technique that allows electronic components to be connected together by melting and inserting a small amount of metal into the junction.</p>
-<div class="table-wrapper scrollbar overflow-hidden">
-<table class="comfortable">
-<thead>
-<tr>
-<th>Soldering iron</th>
-<th>z</th>
-<th>Blue</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Soldering wire</td>
-<td>z</td>
-<td>Green</td>
-</tr>
-<tr>
-<td>Brass or cellulose sponge</td>
-<td>z</td>
-<td>Green</td>
-</tr>
-<tr>
-<td>Soldering paste or pine resin</td>
-<td>z</td>
-<td>Green</td>
-</tr>
-<tr>
-<td>Desoldering pump</td>
-<td>z</td>
-<td>Green</td>
-</tr>
-<tr>
-<td>Iron tips</td>
-<td>z</td>
-<td>Green</td>
-</tr>
-</tbody>
-</table>
-</div>
+<doc-panel id="soldering-iron" collapsed>
+    <template #title>Soldering iron</template>
+<p>aaa</p>
+</doc-panel>
+<doc-panel id="soldering-wire" collapsed>
+    <template #title>Soldering wire</template>
+<p>aaa</p>
+</doc-panel>
+<doc-panel id="sponge" collapsed>
+    <template #title>Sponge</template>
+<doc-tabs>
+<doc-tab id="brass">
+<template #title>Brass</template>
+<p>This is an orange <span class="docs-emoji">&#x1F34A;</span></p>
+</doc-tab>
+<doc-tab id="cellulose">
+<template #title>Cellulose</template>
+<p>This is a banana <span class="docs-emoji">&#x1F34C;</span></p>
+</doc-tab>
+</doc-tabs>
+</doc-panel>
+<doc-panel id="soldering-paste-or-pine-resin" collapsed>
+    <template #title>Soldering paste or pine resin</template>
+<doc-tabs>
+<doc-tab id="soldering-paste">
+<template #title>Soldering paste</template>
+<p>This is an orange <span class="docs-emoji">&#x1F34A;</span></p>
+</doc-tab>
+<doc-tab id="pine-resin">
+<template #title>Pine resin</template>
+<p>This is a banana <span class="docs-emoji">&#x1F34C;</span></p>
+</doc-tab>
+</doc-tabs>
+</doc-panel>
+<doc-panel id="desoldering-pump" collapsed>
+    <template #title>Desoldering pump</template>
+<p>aaa</p>
+</doc-panel>
 <doc-anchor-target id="electronic-supports">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#electronic-supports">#</doc-anchor-trigger>
         <span>Electronic supports</span>
     </h3>
 </doc-anchor-target>
-<div class="table-wrapper scrollbar overflow-hidden">
-<table class="comfortable">
-<thead>
-<tr>
-<th>Dupont cables</th>
-<th>z</th>
-<th>Blue</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Breadboard</td>
-<td>a</td>
-<td>Blue</td>
-</tr>
-<tr>
-<td>Thick cables</td>
-<td>a</td>
-<td>Green</td>
-</tr>
-<tr>
-<td>Heat shrink tube</td>
-<td>z</td>
-<td>Blue</td>
-</tr>
-<tr>
-<td>Lever nuts</td>
-<td>z</td>
-<td>Blue</td>
-</tr>
-<tr>
-<td>Painter&#x27;s tape</td>
-<td>z</td>
-<td>Green</td>
-</tr>
-</tbody>
-</table>
-</div>
+<doc-panel id="cables" collapsed>
+    <template #title>Cables</template>
+<doc-tabs>
+<doc-tab id="dupont-cables">
+<template #title>Dupont cables</template>
+<p>This is an orange <span class="docs-emoji">&#x1F34A;</span></p>
+</doc-tab>
+<doc-tab id="thick-cables">
+<template #title>Thick cables</template>
+<p>This is a banana <span class="docs-emoji">&#x1F34C;</span></p>
+</doc-tab>
+</doc-tabs>
+</doc-panel>
+<doc-panel id="breadboard" collapsed>
+    <template #title>Breadboard</template>
+<p>aaa</p>
+</doc-panel>
+<doc-panel id="heat-shrink-tube" collapsed>
+    <template #title>Heat shrink tube</template>
+<p>aaa</p>
+</doc-panel>
+<doc-panel id="lever-nuts" collapsed>
+    <template #title>Lever nuts</template>
+<p>aaa</p>
+</doc-panel>
+<doc-panel id="painter-s-tape" collapsed>
+    <template #title>Painter&#x27;s tape</template>
+<p>aaa</p>
+</doc-panel>
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
 </figure>
