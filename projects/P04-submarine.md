@@ -20,7 +20,8 @@ P04.12 ⠀[Mission](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-m
 P04.13 ⠀[Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md) *- Introduces our members*\
 P04.14 ⠀[License](/projects/P04-submarine/P04-10-19-about-the-project/P04-13-license.md) *- Site's copyright*\
 P04.15 ⠀[Contact](/projects/P04-submarine/P04-10-19-about-the-project/P04-14-contact.md) *- Connect with us! We welcome any relevant questions and contributions.*\
-P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md) *- External sources where this project is hosted and shared.*
+P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md) *- External sources where this project is hosted and shared.*\
+P04.17 ⠀[Acknowledgements](/projects/P04-submarine/P04-10-19-about-the-project/P04-17-acknowledgements.md) *- Our team's appreciation to all of those who have contributed.*
 ===
 
 For more information on the management side of this project, see 
@@ -40,6 +41,8 @@ P04.27 ⠀[Media](/projects/P04-submarine/P04-20-29-project-management/P04-27-me
 
 And most importantly, you may find useful resources at 
 ==- P04.30 > 39⠀Technical details
+The following segments break down the entire car structure into smaller pieces of material. Most discussions concern the last finalized version of the project.
+
 P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md)\
 P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md)\
 P04.32 ⠀[Components](/projects/P04-submarine/P04-30-39-technical-details/P04-32-components.md)\

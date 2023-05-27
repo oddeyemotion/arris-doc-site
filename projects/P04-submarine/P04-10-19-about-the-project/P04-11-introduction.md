@@ -30,7 +30,8 @@ P04.10 > 19⠀About the project\
 ⠀P04.13 ⠀[Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md)\
 ⠀P04.14 ⠀[License](/projects/P04-submarine/P04-10-19-about-the-project/P04-13-license.md)\
 ⠀P04.15 ⠀[Contact](/projects/P04-submarine/P04-10-19-about-the-project/P04-14-contact.md)\
-⠀P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md)
+⠀P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md)\
+⠀P04.17 ⠀[Acknowledgements](/projects/P04-submarine/P04-10-19-about-the-project/P04-17-acknowledgements.md)
 
 P04.20 > 29⠀Project management\
 ⠀P04.20 ⠀[Target](/projects/P04-submarine/P04-20-29-project-management/P04-20-target.md)\
