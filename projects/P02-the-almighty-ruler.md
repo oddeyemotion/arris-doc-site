@@ -1,6 +1,7 @@
 ---
 icon: cloud-offline
 label: P02⠀The Almighty Ruler
+order: 70
 ---
 # The Almighty Ruler
 

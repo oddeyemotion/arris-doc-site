@@ -1,6 +1,7 @@
 ---
 icon: cloud-offline
 label: P00⠀Rhythmic Pulse
+order: 90
 ---
 # Rhythmic Pulse
 :icon-mark-github: ⠀[Github](https://github.com/oddeyemotion/rhythmic-pulse)

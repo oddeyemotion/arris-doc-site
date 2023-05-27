@@ -1,6 +1,7 @@
 ---
 icon: cloud-offline
 label: P01⠀COVID-19 data analytics and forecasting
+order: 80
 ---
 # COVID-19 data analytics and forecasting
 

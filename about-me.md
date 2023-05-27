@@ -19,6 +19,9 @@ Currently, I am working towards my bachelor's degree in ***Computer Science***.
 Despite being active in one of the most heavily-theoretical field (in my opinion), I have found that I do better on tasks that require a lot of physical practice. And that was basically the main reason why my passion for another field of study was sparked - ***Robotics***.
 
 I have been spending most of my time in university self-teaching everything about robotics. I have participated in some school contests as well, together with friends from different engineering majors. *(Pretty sad that I never got a chance to win any, but I absolutely adore every moment working in groups and having fun with them.)*
+
+Entries about my projects are available [here](/projects/navigation-page.md). I will make sure the documents are as detailed as possible.
+
 ![](/media/about-me2.jpg)
 
 I am also working as a spare-time artist under the alias "K". You may have seen me as "K" or one of my works (in terms of art) somewhere online.

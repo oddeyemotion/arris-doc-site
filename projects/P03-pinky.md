@@ -1,6 +1,7 @@
 ---
 icon: cloud-offline
 label: P03⠀Pinky
+order: 60
 ---
 # Pinky
 

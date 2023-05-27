@@ -1,6 +1,7 @@
 ---
 icon: ":game_die:"
 label: P04⠀Submarine
+order: 50
 ---
 # :game_die: Submarine
 
@@ -8,18 +9,21 @@ Welcome to the official documentation home for *Submarine*. This page is the pri
 
 ![Our robot (left)](/projects/P04-submarine/media/intro-submarine.jpg)
 
-For general info, visit [About the project](/projects/P04-submarine/P04-10-19-about-the-project.md).
+### Quick navigation
+For general info, visit
 ==- P04.10 > 19⠀About the project 
-P04.10 ⠀[Index](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md)\
-P04.11 ⠀[Introduction](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md)\
-P04.12 ⠀[Mission](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-mission.md)\
-P04.13 ⠀[Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md)\
-P04.14 ⠀[License](/projects/P04-submarine/P04-10-19-about-the-project/P04-13-license.md)\
-P04.15 ⠀[Contact](/projects/P04-submarine/P04-10-19-about-the-project/P04-14-contact.md)\
-P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md)
+This category will introduce and provide important information of the project.
+
+P04.10 ⠀[Index](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md) *- Contains all sections covered in this documentation.*\
+P04.11 ⠀[Introduction](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md) *- We talk about our motivation for developing this site and a brief description of our robot car.*\
+P04.12 ⠀[Mission](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-mission.md) *- The subject of competition*\
+P04.13 ⠀[Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md) *- Introduces our members*\
+P04.14 ⠀[License](/projects/P04-submarine/P04-10-19-about-the-project/P04-13-license.md) *- Site's copyright*\
+P04.15 ⠀[Contact](/projects/P04-submarine/P04-10-19-about-the-project/P04-14-contact.md) *- Connect with us! We welcome any relevant questions and contributions.*\
+P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md) *- External sources where this project is hosted and shared.*
 ===
 
-For more information on the management side of this project, see [Project management](/projects/P04-submarine/P04-20-29-project-management).
+For more information on the management side of this project, see 
 ==- P04.20 > 29⠀Project management
 P04.20 ⠀[Target](/projects/P04-submarine/P04-20-29-project-management/P04-20-target.md)\
 P04.21 ⠀[Schedules & timestamps](/projects/P04-submarine/P04-20-29-project-management/P04-21-schedules.md)\
@@ -31,7 +35,7 @@ P04.26 ⠀[Training](/projects/P04-submarine/P04-20-29-project-management/P04-26
 P04.27 ⠀[Media](/projects/P04-submarine/P04-20-29-project-management/P04-27-media.md)
 ===
 
-And most importantly, you may find useful resources at [Technical details](/projects/P04-submarine/P04-30-39-technical-details.md).
+And most importantly, you may find useful resources at 
 ==- P04.30 > 39⠀Technical details
 P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md)\
 P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md)\
@@ -43,6 +47,11 @@ P04.36 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-
 P04.37 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-37-optimization.md)\
 P04.38 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-38-version-archive.md)
 ===
+
+### Why this site?
+It seems like we lose a lot of collective knowledge with every undocumented project. This generally limits the success factor of any newly formed team as members spend time relearning concepts and repeating past mistakes. Those who have experience in certain areas have to train novice members and thus robs everyone of their time. Preventing this from happening will help us work more efficiently.
+
+Since this knowledge base was primarily intended for internal use by [Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md), there might be some sections that do not fit to others. Nevertheless, the vast majority of the content should be applicable to most projects. So, if you'd like to use this as a resource for your study, feel free.
 
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">

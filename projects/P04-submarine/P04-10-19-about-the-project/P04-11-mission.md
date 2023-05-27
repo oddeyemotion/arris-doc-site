@@ -10,7 +10,7 @@ label: P04.11⠀Mission
 Update on May 22nd, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*
 !!!
 
-## About MERC
+### About MERC
 
 <style>
 figcaption {
@@ -30,7 +30,7 @@ figcaption {
 
 In a typical game, two teams are labeled as different colors and they compete against each other for points. The team that has the most points wins the match.
 
-## MERC 2023 theme - *Castle Warfare* <sup><a href="#section1">[1]</a></sup>
+### MERC 2023 theme - *Castle Warfare* <sup><a href="#section1">[1]</a></sup>
 
 !!!
 *More details in future updates*
