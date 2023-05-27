@@ -52,8 +52,6 @@ Programming languages: ```C/C++, Python, Java, HTML/CSS/Javascript```\
 Communication: ```Vietnamese, English, Polish, Cantonese```\
 Softwares: ```Autodesk Fusion 360, KiCAD, etc```
 
-![A Fusion 360 screenshot](/media/about-me3.png)
-
 <style>
 figcaption {
   color: #9D9D9D;

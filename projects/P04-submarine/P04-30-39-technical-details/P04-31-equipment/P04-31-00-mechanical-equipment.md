@@ -9,6 +9,8 @@ label: P04.31.00⠀Mechanical equipment
 *More details in future updates*
 !!!
 
+The set of tools and accessories required to work effectively on robots is not excessive, but there are some that we found extremely valuable, and others not so much. Here we try to capture some of our insights over the past 7 weeks about which tools a robot team might be interested in having on hand.
+
 ### Hand tools
 
 ==- Screwdrivers

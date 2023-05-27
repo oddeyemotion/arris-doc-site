@@ -13,8 +13,10 @@ The robot has two Arduino micro-controller boards, one for propulsion control an
 
 ![](/projects/P04-submarine/media/intro-submarine2.jpg)
 
-The project lasts 7 weeks and reached the quarterfinals before being ousted.:sob:
+Our robot was constructed in a 7-week period regarding [MERC 2023](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-mission.md) tournament. In the end we were eliminated from the competition in the quarterfinals, but we gained a lot of new experiences, insights, and connections, and this was honestly an invaluable experience.
 
+|
+--- | ---
 
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
