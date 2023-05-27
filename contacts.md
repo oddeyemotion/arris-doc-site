@@ -26,4 +26,8 @@ label: Contact and emailing
 <a title="Facebook" href="https://commons.wikimedia.org/wiki/File:2021_Facebook_icon.svg"><img width="21" alt="2021 Facebook icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/128px-2021_Facebook_icon.svg.png"></a> ⠀Facebook - [Hằng Lê](https://www.facebook.com/oddeyemotion/)\
 :icon-mark-github: ⠀Github - [oddeyemotion](https://github.com/oddeyemotion)\
 :icon-dependabot: ⠀Thingiverse - [oddeyemotion](https://www.thingiverse.com/oddeyemotion)\
-:icon-dependabot: ⠀Project Cocoon - [Hang Le](https://projectcocoon.org/users/561/hang-thithuy-le/profile)
+:icon-dependabot: ⠀Project Cocoon - [Hang Le](https://projectcocoon.org/users/561/hang-le/profile)
+
+<figure>
+    <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
+</figure>

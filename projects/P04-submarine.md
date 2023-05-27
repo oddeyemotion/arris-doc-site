@@ -25,6 +25,9 @@ P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-
 
 For more information on the management side of this project, see 
 ==- P04.20 > 29⠀Project management
+!!!
+*Available in future updates*
+!!!
 P04.20 ⠀[Target](/projects/P04-submarine/P04-20-29-project-management/P04-20-target.md)\
 P04.21 ⠀[Schedules & timestamps](/projects/P04-submarine/P04-20-29-project-management/P04-21-schedules.md)\
 P04.22 ⠀[Costs](/projects/P04-submarine/P04-20-29-project-management/P04-22-costs.md)\
@@ -48,6 +51,9 @@ P04.37 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04
 P04.38 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-38-version-archive.md)
 ===
 
+|
+--- | ---
+
 ### Why this site?
 It seems like we lose a lot of collective knowledge with every undocumented project. This generally limits the success factor of any newly formed team as members spend time relearning concepts and repeating past mistakes. Those who have experience in certain areas have to train novice members and thus robs everyone of their time. Preventing this from happening will help us work more efficiently.
 
@@ -56,5 +62,3 @@ Since this knowledge base was primarily intended for internal use by [Team Subma
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
 </figure>
-
-[!button text="Back to Projects"](/projects.md)

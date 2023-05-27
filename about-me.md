@@ -83,3 +83,13 @@ Despite my overall image, I am a longtime Hip-hop listener. Check out one of my 
     <iframe src="https://www.youtube.com/embed/UmSkDAStKeE" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen></iframe>
   </div>
 </div>
+
+⠀
+
+|
+--- | ---
+
+
+<figure>
+    <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
+</figure>

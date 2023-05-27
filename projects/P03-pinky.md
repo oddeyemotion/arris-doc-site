@@ -3,17 +3,19 @@ icon: cloud-offline
 label: P03⠀Pinky
 order: 60
 ---
-# Pinky
+# :icon-cloud-offline: Pinky
 
-:icon-mark-github: ⠀[Github](https://github.com/oddeyemotion/pinky)
-
+![](https://raw.githubusercontent.com/oddeyemotion/pinky/main/media/robot-arm.jpg)
 
 !!!
 *Available in future updates*
 !!!
 
-!!!
-Update on May 22nd, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*
-!!!
+:icon-mark-github: ⠀[Github](https://github.com/oddeyemotion/pinky)
 
-[!button text="Back to Projects"](/projects.md)
+|
+--- | ---
+
+<figure>
+    <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
+</figure>
