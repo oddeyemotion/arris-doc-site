@@ -22,8 +22,8 @@ figcaption {
 }
 </style>
 <figure>
-    <img src="https://cdn-amz.woka.io/images/I/71MNq7R77+L.jpg" alt="">
-    <figcaption>Ender-3 V2 3D printer</figcaption>
+    <img src="https://raw.githubusercontent.com/oddeyemotion/odd/main/projects/P04-submarine/media/3D-printer.jpg" alt="">
+    <figcaption>Our 3D printer</figcaption>
 </figure>
 
 If someone is just getting into the 3D world, this device is a great all-round printer that is relatively cheap, very customizable in the long run, and has a large community.
@@ -34,6 +34,7 @@ Still, for the sake of simplicity, you can just find external 3D printing servic
 --- | ---
 
 ### CNC router
+A CNC router is versatile. It can be operated as its original intended use, a drilling machine, a saw, a mill, and even as a lathe. It produces very precise parts for engineering projects.
 
 <figure>
     <img src="https://hackaday.com/wp-content/uploads/2014/06/home-made-cnc-router.jpg?w=640" alt="">

@@ -5,10 +5,6 @@ label: P04.31.00⠀Mechanical equipment
 # :icon-dependabot:⠀Mechanical equipment
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
-!!!
-*More details in future updates*
-!!!
-
 The set of tools and accessories required to work effectively on robots is not excessive, but there are some that we found extremely valuable, and others not so much. Here we try to capture some of our insights over the 2-month progress about which tools a robot team might be interested in having on hand.
 
 Below are the tools involved in the manufacturing process throughout the project. For smoother forwarding, we recommend preparing them all.
@@ -52,6 +48,9 @@ Most of them can adjust the speed. Try to find sets that come with drill bits, g
 ===
 
 === Hot glue gun
+!!!
+*More details in future updates*
+!!!
 ![](https://salt.tikicdn.com/cache/w1200/ts/product/53/c2/de/4819683be576acea156ba672aee45270.jpg)
 ===
 
@@ -60,10 +59,16 @@ Most of them can adjust the speed. Try to find sets that come with drill bits, g
 
 ### Measurement
 === Measuring tape
+!!!
+*More details in future updates*
+!!!
 ![](https://cdn.shopify.com/s/files/1/0016/5032/7651/products/36002-new.jpg?v=1551679256&width=1445)
 ===
 
-=== Calliper
+=== Digital calliper
+!!!
+*More details in future updates*
+!!!
 ![](https://m.media-amazon.com/images/I/51ufZPKZmLL._AC_SL1000_.jpg)
 ===
 
@@ -92,6 +97,9 @@ Washers provide the essential function of distributing the load of a screw or nu
 
 ### Straps and adhesives
 === Elastic
+!!!
+*More details in future updates*
+!!!
 +++ Rubber bands
 ![](https://sc01.alicdn.com/kf/Hb8721aa48d604809901de1bdefe49a02D.jpg)
 +++ Nylon elastic cords
@@ -101,10 +109,16 @@ Can be bought in craft shops. It is the same material used to make face masks, e
 ===
 
 === Zip cable ties
+!!!
+*More details in future updates*
+!!!
 ![](https://cdn.shopify.com/s/files/1/0316/9399/6091/products/81u6sh8082L._AC_SL1500_c463563d-3e08-4873-b08e-f552bf77fbfd_1200x1200.jpg?v=1638542384)
 ===
 
 === Glue
+!!!
+*More details in future updates*
+!!!
 +++ Polyurethane-based glue
 ![](https://i.etsystatic.com/11680570/r/il/c06b7d/3089070420/il_fullxfull.3089070420_ryx0.jpg)
 +++ Epoxy glue
@@ -113,6 +127,9 @@ Can be bought in craft shops. It is the same material used to make face masks, e
 ===
 
 === Tape
+!!!
+*More details in future updates*
+!!!
 +++ Scotch tape
 ![](https://vietbox.vn/wp-content/uploads/2019/10/scotch-tape-la-gi-1.png)
 +++ Double-sided foam tape
@@ -121,6 +138,9 @@ Can be bought in craft shops. It is the same material used to make face masks, e
 ===
 
 === Re-usable adhesive clay
+!!!
+*More details in future updates*
+!!!
 ![](https://ae01.alicdn.com/kf/H4fb1af595cb1434a8a3c5bc2f23888d32/Adhesive-Clay-For-Home-Office-School-Reusable-Removable-Adhesive-Putty-Tabs-TACK-IT-Clay-60g-White.jpg_Q90.jpg_.webp)
 ===
 
@@ -129,10 +149,16 @@ Can be bought in craft shops. It is the same material used to make face masks, e
 
 ### Miscellaneous
 === Building blocks
+!!!
+*More details in future updates*
+!!!
 ![](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2023-01/lego-bricks-mc-230105-780fa4.jpg)
 ===
 
 === Modeling clay
+!!!
+*More details in future updates*
+!!!
 +++ Air dry clay
 ![](https://www.hobbycraft.co.uk/on/demandware.static/-/Sites-hobbycraft-uk-master/default/dwb8c5d9dd/images/large/501281_1000_1_-das-white-air-drying-modelling-clay-1kg.jpg)
 +++ Polymer clay
