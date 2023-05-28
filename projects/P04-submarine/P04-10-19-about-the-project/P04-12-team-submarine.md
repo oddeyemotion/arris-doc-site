@@ -15,7 +15,7 @@ Our members:
 :---: | :---:
 <a title="" href="https://github.com/Huydeptraibodoi"><img width="128" src="https://avatars.githubusercontent.com/u/128045931?v=4"></a> | <a title="" href="https://github.com/highzer0"><img width="128" src="https://avatars.githubusercontent.com/u/128067323?v=4"></a>
 
-[oddeyemotion](https://github.com/oddeyemotion) (Team captain) |
+[oddeyemotion](/about-me.md) (Team captain) |
 :---:|
 <a title="" href="https://github.com/oddeyemotion"><img width="128" src="https://avatars.githubusercontent.com/u/53541271?v=4"></a>|
 

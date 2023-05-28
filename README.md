@@ -22,7 +22,7 @@ figcaption {
     <figcaption> Credit: <a href="https://stardust-specks.tumblr.com/post/184284932522/fairydust-f2u-header-dont-delete-my-caption">stardust-specks</a> on Tumblr</figcaption>
 </figure>
 
-This [website](https://oddeyemotion.github.io/odd/) was created by [Arris](/contacts.md) (myself) as a personal portfolio to showcase some of my projects related to both Computer Science and Robotics.
+This [website](https://oddeyemotion.github.io/odd/) was created by [Arris](/about-me.md) (myself) as a personal portfolio to showcase some of my projects related to both Computer Science and Robotics.
 
 > I really hope I could get an internship somewhere in the industry :<
 

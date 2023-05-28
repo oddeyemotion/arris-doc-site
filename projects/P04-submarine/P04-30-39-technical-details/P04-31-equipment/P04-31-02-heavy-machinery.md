@@ -5,29 +5,40 @@ label: P04.31.02⠀Heavy machinery
 # :icon-dependabot:⠀Heavy machinery
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+These power tools have become indispensable in the design and construction of our robot.
+
 ### FDM 3D printer
+Generally accepted as the simplest way to 3D print stuff, FDM is accessible, reasonably efficient, and widely popular. A typical FDM 3D printer takes a polymer-based filament and forces it through a heated nozzle, which melts the material and deposits it in 2D layers on the build platform. While still warm, these layers fuse with each other to eventually create a three-dimensional part.
 
-!!!
-*More details in future updates*
-!!!
+As for [Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md), the entire manufacturing process takes place in our member [oddeyemotion](/about-me.md)'s personal work studio, where an [Ender-3 V2 3D printer](https://www.creality.com/products/ender-3-v2-3d-printer-csco) is already equipped.
 
-A typical FDM 3D printer takes a polymer-based filament and forces it through a heated nozzle, which melts the material and deposits it in 2D layers on the build platform. While still warm, these layers fuse with each other to eventually create a three-dimensional part.
+<style>
+figcaption {
+  color: #9D9D9D;
+  font-style: italic;
+  font-size: 19px;
+  padding: 1px;
+  text-align: center;
+}
+</style>
+<figure>
+    <img src="https://cdn-amz.woka.io/images/I/71MNq7R77+L.jpg" alt="">
+    <figcaption>Ender-3 V2 3D printer</figcaption>
+</figure>
 
-FDM builds parts layer by layer by selectively depositing melted material in a predetermined path. 
+If someone is just getting into the 3D world, this device is a great all-round printer that is relatively cheap, very customizable in the long run, and has a large community.
 
-Generally accepted as the simplest way to 3D print stuff, FDM is accessible, reasonably efficient, and widely popular. FDM printers dominate the 3D printing market, being remarkably more straightforward than resin 3D printing and massively cheaper than powder-based methods, such as SLS.
-
-[Ender 3 V2](https://www.creality.com/products/ender-3-v2-3d-printer-csco)
-
-For the sake of simplicity, you can use external 3D printing services.
+Still, for the sake of simplicity, you can just find external 3D printing services. They would take care of all the hard parts since maintaining the machine can be a **HUGE** hassle. *(Shout out to our member [Huy](https://github.com/Huydeptraibodoi) for getting a handle on it during the whole time* :cold_sweat:*)*
 
 |
 --- | ---
 
-### Laser cutter
-!!!
-*More details in future updates*
-!!!
+### CNC router
+
+<figure>
+    <img src="https://hackaday.com/wp-content/uploads/2014/06/home-made-cnc-router.jpg?w=640" alt="">
+    <figcaption>Wood CNC router</figcaption>
+</figure>
 
 For the sake of simplicity, you can use external laser cutting services.
 
