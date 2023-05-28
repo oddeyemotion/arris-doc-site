@@ -7,13 +7,32 @@ label: P04.11⠀Introduction
 
 *Submarine* is a hybrid 4WD, Bluetooth-controlled competitive robot car. It is capable of collecting and holding solid game pieces of varying profile while moving across the playing field with desired accuracy and excessively high speed.
 
-The frame is constructed with [T-slotted 2020 aluminum framing rails](https://en.wikipedia.org/wiki/T-slot_structural_framing) and compatible profile assembling accessories. Our hybrid wheel system consists of two regular 65mm tractor wheels as *drive wheels* and two self-manufactured 65mm Omni wheels as *steering wheels*, which mimics front axle steering mechanism and allows for smooth turns while maintaining friction.
+![](/projects/P04-submarine/media/intro-submarine2.jpg)
+
+Overall frame is constructed with [T-slotted 2020 aluminum framing rails](https://en.wikipedia.org/wiki/T-slot_structural_framing) and compatible profile mounting accessories, features a very unique continuous belt routing lift system using 1:1 gear power transmission technique.
+
+![](/projects/P04-submarine/media/1-1-gear-transmission.jpg)
 
 The robot has two Arduino micro-controller boards, one for propulsion control and one for end effector state switching. Each communicates directly with a separate Android device via a paired Bluetooth module connected to its integrated pins. The boards are programmable using the [Arduino IDE](https://www.arduino.cc/en/software).
 
-![](/projects/P04-submarine/media/intro-submarine2.jpg)
+Our hybrid wheel setup consists of two regular 65mm tractor wheels as *drive wheels* and two self-manufactured 65mm [omni wheels](https://en.wikipedia.org/wiki/Omni_wheel#:~:text=Omni%20wheels%20or%20poly%20wheels,slide%20laterally%20with%20great%20ease.) as *steering wheels*, which mimics **front axle steering mechanism** and allows for smooth turns while maintaining friction.
 
-Our robot was constructed in a 7-week period regarding [MERC 2023](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-mission.md) tournament. In the end we were eliminated from the competition in the quarterfinals, but we gained a lot of new experiences, insights, and connections, and this was honestly an invaluable experience.
+![](/projects/P04-submarine/media/front-axle-steering.gif)
+<style>
+figcaption {
+  color: #9D9D9D;
+  font-style: italic;
+  font-size: 19px;
+  padding: 1px;
+  text-align: center;
+}
+</style>
+<figure>
+    <img src="" alt="">
+    <figcaption> MERC 2023 banner. Photo credit: <a href="https://www.facebook.com/photo.php?fbid=510479107908091&set=pb.100068380175688.-2207520000.&type=3">Creative Academic Techno Club - C.A.T - CLB Sáng tạo Học thuật Khoa Cơ Khí</a></figcaption>
+</figure>
+
+Our robot was constructed in a 7-week period regarding [MERC 2023](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-mission.md) tournament. In the end we were eliminated from the competition in the quarterfinals, but we gained a lot of new experiences, insights, and connections, and this was honestly an invaluable experience.
 
 |
 --- | ---
@@ -21,36 +40,3 @@ Our robot was constructed in a 7-week period regarding [MERC 2023](/projects/P04
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
 </figure>
-
-=== Index
-P04.10 > 19⠀About the project\
-⠀P04.10 ⠀[Index](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md)\
-⠀P04.11 ⠀[Introduction](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md)\
-⠀P04.12 ⠀[Mission](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-mission.md)\
-⠀P04.13 ⠀[Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md)\
-⠀P04.14 ⠀[License](/projects/P04-submarine/P04-10-19-about-the-project/P04-13-license.md)\
-⠀P04.15 ⠀[Contact](/projects/P04-submarine/P04-10-19-about-the-project/P04-14-contact.md)\
-⠀P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md)\
-⠀P04.17 ⠀[Acknowledgements](/projects/P04-submarine/P04-10-19-about-the-project/P04-17-acknowledgements.md)
-
-P04.20 > 29⠀Project management\
-⠀P04.20 ⠀[Target](/projects/P04-submarine/P04-20-29-project-management/P04-20-target.md)\
-⠀P04.21 ⠀[Schedules & timestamps](/projects/P04-submarine/P04-20-29-project-management/P04-21-schedules.md)\
-⠀P04.22 ⠀[Costs](/projects/P04-submarine/P04-20-29-project-management/P04-22-costs.md)\
-⠀P04.23 ⠀[Resources](/projects/P04-submarine/P04-20-29-project-management/P04-23-resources.md)\
-⠀P04.24 ⠀[Risk management](/projects/P04-submarine/P04-20-29-project-management/P04-24-risks.md)\
-⠀P04.25 ⠀[Rules](/projects/P04-submarine/P04-20-29-project-management/P04-25-rules.md)\
-⠀P04.26 ⠀[Training](/projects/P04-submarine/P04-20-29-project-management/P04-26-training.md)\
-⠀P04.27 ⠀[Media](/projects/P04-submarine/P04-20-29-project-management/P04-27-media.md)
-
-P04.30 > 39⠀Technical details\
-⠀P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md)\
-⠀P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md)\
-⠀P04.32 ⠀[Components](/projects/P04-submarine/P04-30-39-technical-details/P04-32-components.md)\
-⠀P04.33 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-hardware.md)\
-⠀P04.34 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-34-software.md)\
-⠀P04.35 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-35-testing.md)\
-⠀P04.36 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-36-performance.md)\
-⠀P04.37 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-37-optimization.md)\
-⠀P04.38 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-38-version-archive.md)
-===

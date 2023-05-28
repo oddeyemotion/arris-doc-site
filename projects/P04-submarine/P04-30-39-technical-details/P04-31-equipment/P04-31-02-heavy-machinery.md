@@ -28,54 +28,34 @@ figcaption {
 
 If someone is just getting into the 3D world, this device is a great all-round printer that is relatively cheap, very customizable in the long run, and has a large community.
 
-Still, for the sake of simplicity, you can just find external 3D printing services. They would take care of all the hard parts since maintaining the machine can be a **HUGE** hassle. *(Shout out to our member [Huy](https://github.com/Huydeptraibodoi) for getting a handle on it during the whole time* :cold_sweat:*)*
+Still, for the sake of simplicity, one can just find external 3D printing services. They would take care of all the hard parts since maintaining the machine can be a **HUGE** hassle. *(Shout out to our member [Huy](https://github.com/Huydeptraibodoi) for getting a handle on it during the whole time* :cold_sweat:*)*
 
 |
 --- | ---
 
 ### CNC router
-A CNC router is versatile. It can be operated as its original intended use, a drilling machine, a saw, a mill, and even as a lathe. It produces very precise parts for engineering projects.
+A CNC router is versatile. It can be operated as its original intended use, a drilling machine, a saw, a mill, and even as a lathe. It can cut materials such as plastic, foam, wood, composites, acrylic to specifications. Some even capable of cutting metals. This machine produces very precise parts for engineering projects.
 
 <figure>
     <img src="https://hackaday.com/wp-content/uploads/2014/06/home-made-cnc-router.jpg?w=640" alt="">
-    <figcaption>Wood CNC router</figcaption>
+    <figcaption>A DIY CNC router</figcaption>
 </figure>
 
-For the sake of simplicity, you can use external laser cutting services.
+However, due to its high noise level and the intense dust problem, we are not yet equipping one at our station. Therefore, to simplify the already complicated progress, our team simply engaged external laser cutting services.
 
+|
+--- | ---
+
+### Power drill
+!!!
+*More details in future updates*
+!!!
+
+![](https://www.realsimple.com/thmb/3_My8MHh4vVQZ96KZ-BEza6Ex6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rs-best-cordless-drills-of-2023-tout-3c458303af9c4174a6e4351be09b7d1b.jpg)
+
+|
+--- | ---
 
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
 </figure>
-
-=== Index
-P04.10 > 19⠀About the project\
-⠀P04.10 ⠀[Index](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md)\
-⠀P04.11 ⠀[Introduction](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md)\
-⠀P04.12 ⠀[Mission](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-mission.md)\
-⠀P04.13 ⠀[Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-team-submarine.md)\
-⠀P04.14 ⠀[License](/projects/P04-submarine/P04-10-19-about-the-project/P04-13-license.md)\
-⠀P04.15 ⠀[Contact](/projects/P04-submarine/P04-10-19-about-the-project/P04-14-contact.md)\
-⠀P04.16 ⠀[Other sites](/projects/P04-submarine/P04-10-19-about-the-project/P04-15-other-sites.md)
-
-P04.20 > 29⠀Project management\
-⠀P04.20 ⠀[Target](/projects/P04-submarine/P04-20-29-project-management/P04-20-target.md)\
-⠀P04.21 ⠀[Schedules & timestamps](/projects/P04-submarine/P04-20-29-project-management/P04-21-schedules.md)\
-⠀P04.22 ⠀[Costs](/projects/P04-submarine/P04-20-29-project-management/P04-22-costs.md)\
-⠀P04.23 ⠀[Resources](/projects/P04-submarine/P04-20-29-project-management/P04-23-resources.md)\
-⠀P04.24 ⠀[Risk management](/projects/P04-submarine/P04-20-29-project-management/P04-24-risks.md)\
-⠀P04.25 ⠀[Rules](/projects/P04-submarine/P04-20-29-project-management/P04-25-rules.md)\
-⠀P04.26 ⠀[Training](/projects/P04-submarine/P04-20-29-project-management/P04-26-training.md)\
-⠀P04.27 ⠀[Media](/projects/P04-submarine/P04-20-29-project-management/P04-27-media.md)
-
-P04.30 > 39⠀Technical details\
-⠀P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md)\
-⠀P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md)\
-⠀P04.32 ⠀[Components](/projects/P04-submarine/P04-30-39-technical-details/P04-32-components.md)\
-⠀P04.33 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-hardware.md)\
-⠀P04.34 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-34-software.md)\
-⠀P04.35 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-35-testing.md)\
-⠀P04.36 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-36-performance.md)\
-⠀P04.37 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-37-optimization.md)\
-⠀P04.38 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-38-version-archive.md)
-===
