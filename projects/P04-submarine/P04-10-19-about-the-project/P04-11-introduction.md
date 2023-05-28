@@ -1,12 +1,13 @@
 ---
 icon: dependabot
 label: P04.11⠀Introduction
+order: 90
 ---
 # :icon-dependabot: Introduction
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!
-To watch it in motion, check out [Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md) section.
+To watch it move, check out [Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md) section.
 !!!
 
 
@@ -14,7 +15,7 @@ To watch it in motion, check out [Testing](/projects/P04-submarine/P04-30-39-tec
 
 ![](/projects/P04-submarine/media/intro-submarine2.jpg)
 
-Overall frame is constructed with [T-slotted 2020 aluminum framing rails](https://en.wikipedia.org/wiki/T-slot_structural_framing) and compatible profile mounting accessories, features a very unique continuous belt routing lift system using **1:1 gear power transmission technique**.
+Overall frame is constructed with [T-slotted 2020 aluminum framing rails](https://en.wikipedia.org/wiki/T-slot_structural_framing) and compatible profile mounting accessories, features a very unique continuous belt routing elevator using **1:1 gear power transmission technique**.
 
 ![](/projects/P04-submarine/media/1-1-gear-transmission.jpg)
 

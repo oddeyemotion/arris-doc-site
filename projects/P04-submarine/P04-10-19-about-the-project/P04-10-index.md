@@ -1,6 +1,7 @@
 ---
 icon: bookmark-fill
 label: P04.10⠀Index
+order: 100
 ---
 # :icon-bookmark-fill: Index
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()

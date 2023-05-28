@@ -1,13 +1,21 @@
 ---
-icon: archive
-label: P04.37⠀Version archive
+icon: cpu
+label: P04.32.01 Manipulator
 ---
-# :icon-archive:⠀Version archive
+# :icon-cpu:⠀Manipulator
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!
 *More details in future updates*
 !!!
+
+We wanted to take advantage on linear forward only motion.
+
+![](/projects/P04-submarine/media/elevator1.jpg)
+
+It is capable of reaching ~70 cm of height.
+
+[!embed](https://youtu.be/vEQTLgSBcy8)
 
 |
 --- | ---

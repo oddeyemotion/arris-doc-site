@@ -1,13 +1,16 @@
 ---
-icon: archive
-label: P04.37⠀Version archive
+icon: cpu
+label: P04.32.03 Control system
 ---
-# :icon-archive:⠀Version archive
+# :icon-cpu:⠀Control system
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!
 *More details in future updates*
 !!!
+
+![](/projects/P04-submarine/media/toggle-switch-lmao.jpg)
+![](/projects/P04-submarine/media/circuit-temp.jpg)
 
 |
 --- | ---
