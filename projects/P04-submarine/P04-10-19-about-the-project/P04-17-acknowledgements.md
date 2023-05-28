@@ -13,7 +13,7 @@ Our sincerest thanks to our parents who supported us emotionally and financially
 
 We would like to give special mentions to our close friends: Tuan Cao-Tri Nguyen, Khai Duc Nguyen (Jason), and Linh Hoang-Thao Luu, for their generous and promtply assistance. This project would not have been possible without your involvement in critical moments when we were already expected to not achieve our goals on time. Thank you all for always being there by our side. 
 
-A huge shout-out and heartfelt thanks to all friends at Creative Academic Techno Club (C.A.T). Thank you so much for the much-needed help during that hectic period. 
+A huge shout-out and heartfelt thanks to all the contest organisers at Creative Academic Techno Club (C.A.T). Thank you so much for the much-needed help during that hectic period. 
 
 And finally to our members, who have shared part of yourselves, thank you for being together every step of the way, and for the friendship that has developed. All the memories, the experiences, the hardships, and the joy - we would not be here without each other.
 

@@ -19,7 +19,7 @@ Our members:
 :---:|
 <a title="" href="https://github.com/oddeyemotion"><img width="128" src="https://avatars.githubusercontent.com/u/53541271?v=4"></a>|
 
-We participated in [MERC 2023](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-mission.md) tournament, and each one of us was a beneficial element in making the final robot.
+We participated in [M.E.R.C 2023](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-mission.md) tournament, and each one of us was a beneficial element in making the final robot.
 
 Since this is the first time working together, we did have a few hiccups, from miscommunication, to having been compelled to constantly work overnight, but at the end, we are glad that we grew together as a team through this enlightening experience.
 

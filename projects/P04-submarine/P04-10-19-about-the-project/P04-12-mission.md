@@ -1,47 +1,15 @@
 ---
 icon: trophy
-label: P04.11⠀Mission
+label: P04.12⠀Mission
 ---
 # :icon-trophy: Mission
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
-### About MERC
+P04.12.00 [About M.E.R.C](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-mission/P04-12-00-about-merc.md)\
+P04.12.01 [Terms and descriptions](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-mission/P04-12-01-terms.md)\
+P04.12.02 [Task list](/projects/P04-submarine/P04-10-19-about-the-project/P04-12-mission/P04-12-02-tasks.md)
 
-<style>
-figcaption {
-  color: #9D9D9D;
-  font-style: italic;
-  font-size: 19px;
-  padding: 1px;
-  text-align: center;
-}
-</style>
-<figure>
-    <img src="https://scontent.fsgn2-9.fna.fbcdn.net/v/t39.30808-6/332865525_1897104517305566_4928786535366201885_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=EItu61PoYQMAX9GcAnF&_nc_ht=scontent.fsgn2-9.fna&oh=00_AfB5Uen2Pos1JHyZZoiKiP09ZmIgI3oQLrr2B9WWhKvJqQ&oe=646ED909" alt="MERC 2023 banner. Photo credit: Creative Academic Techno Club - C.A.T - CLB Sáng tạo Học thuật Khoa Cơ Khí">
-    <figcaption> MERC 2023 banner. Photo credit: <a href="https://www.facebook.com/photo.php?fbid=510479107908091&set=pb.100068380175688.-2207520000.&type=3">Creative Academic Techno Club - C.A.T - CLB Sáng tạo Học thuật Khoa Cơ Khí</a></figcaption>
-</figure>
-
-**MERC**, or *Mechanical Engineering Robot Contest*, is a robotics program hosted by [C.A.T](https://www.facebook.com/CreAcaTechnoCLub) - an academic club of [HCMUT](https://hcmut.edu.vn/tong-quan?lang=en)'s mechanical engineering department, composed of competitors from different universities in Ho Chi Minh City, Vietnam. The event encourages STEM learning and cooperation by hosting competitions between robots in a yearly changed game.
-
-In a typical game, two teams are labeled as different colors and they compete against each other for points. The team that has the most points wins the match.
-
-### MERC 2023 theme - *Castle Warfare* <sup><a href="#section1">[1]</a></sup>
-
-!!!
-*More details in future updates*
-!!!
-
-<div>
-	<style>
-		section1 {
-			color: #7D7D7D;
-			font-style: italic;
-			font-size: 14px;
-			padding: 2px;
-		}
-	</style>
-	<p id="section1"><sup>[1]</sup> Vietnamese: Công thành chiến. Refers to medieval land conquests in history where groups of armed soldiers clash to take control of territories.</p>
-</div>
+--- | ---
 
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
