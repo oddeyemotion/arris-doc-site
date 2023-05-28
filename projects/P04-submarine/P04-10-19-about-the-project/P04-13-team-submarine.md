@@ -5,7 +5,7 @@ label: P04.13⠀Team Submarine
 # :icon-id-badge:⠀Team Submarine
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
-Our members:
+Our members (Github):
 
 [samdinh7](https://github.com/samdinh7) | [Graviton27](https://github.com/Graviton27)
 :---: | :---:
@@ -15,7 +15,7 @@ Our members:
 :---: | :---:
 <a title="" href="https://github.com/Huydeptraibodoi"><img width="128" src="https://avatars.githubusercontent.com/u/128045931?v=4"></a> | <a title="" href="https://github.com/highzer0"><img width="128" src="https://avatars.githubusercontent.com/u/128067323?v=4"></a>
 
-[oddeyemotion](/about-me.md) (Team captain) |
+[oddeyemotion](https://github.com/oddeyemotion) (Team captain) |
 :---:|
 <a title="" href="https://github.com/oddeyemotion"><img width="128" src="https://avatars.githubusercontent.com/u/53541271?v=4"></a>|
 
