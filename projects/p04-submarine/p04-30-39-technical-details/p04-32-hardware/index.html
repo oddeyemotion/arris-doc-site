@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/odd">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738583161761">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738588195655">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -22,22 +22,20 @@
     <meta property="og:url" content="https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/">
     <meta property="og:title" content="⠀Hardware implementation - @oddeyemotion's Project Documentation">
     <meta property="og:description" content="Tags: Submarine robot-car">
-    <meta property="og:image" content="https://oddeyemotion.github.io/odd/projects/p04-submarine/media/pre-built-robot-cars-vn.png">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" content="https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/">
     <meta property="twitter:title" content="⠀Hardware implementation - @oddeyemotion's Project Documentation">
     <meta property="twitter:description" content="Tags: Submarine robot-car">
-    <meta property="twitter:image" content="https://oddeyemotion.github.io/odd/projects/p04-submarine/media/pre-built-robot-cars-vn.png">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/odd/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../../resources/css/retype.css?v=2.4.0.738583161761" rel="stylesheet" />
+    <link href="../../../../resources/css/retype.css?v=2.4.0.738588195655" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../../../resources/js/config.js?v=2.4.0.738583161761" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../../../resources/js/config.js?v=2.4.0.738588195655" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../../../resources/js/lunr.js?v=2.4.0.738583161761" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../../../resources/js/lunr.js?v=2.4.0.738588195655" data-turbo-eval="false" defer></script>
 
     <link href="./static/custom.css" rel="stylesheet">
     <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
@@ -220,121 +218,10 @@
 </span></p>
 <p>The visible, physical stuffs as how we call it, <em>hardware</em>, is the subject of this segment.</p>
 <p>Discussing in depth about our chassis and mechanism specifications, we focused on ensuring that our end result reflected our design intent and was suitable for the game.</p>
-<doc-anchor-target id="drivetrain">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#drivetrain">#</doc-anchor-trigger>
-        <span>Drivetrain</span>
-    </h3>
-</doc-anchor-target>
-<p>A common practice in robotics tournaments is to use pre-built kits of parts or even pre-built frames to minimize the time required, and it would be really advantageous to do so. However, in our current country of residence (Vietnam) we can only find robot car kits that look like this:</p>
-<p><figure class="content-center">
-    <img src="../../media/pre-built-robot-cars-vn.png" alt="" />
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
-<p>These are good for starters and those who want to try small scale projects, but to protect our castle we need something way more bigger.</p>
-<p><figure class="content-center">
-    <img src="../../media/drivetrain1.jpg" alt="" />
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
-<p>Our choice of drivetrain is <strong>Hybrid 4WD</strong> - 4-wheel drive consists of 2 different pairs of wheel of different type.</p>
-<doc-anchor-target id="manipulator">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#manipulator">#</doc-anchor-trigger>
-        <span>Manipulator</span>
-    </h3>
-</doc-anchor-target>
-<p>We want to take advantage on linear forward only motion.</p>
-<p><figure class="content-center">
-    <img src="../../media/elevator1.jpg" alt="" />
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
-<p>It is capable of reaching x cm of height.</p>
-<doc-anchor-target id="end-effector">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#end-effector">#</doc-anchor-trigger>
-        <span>End effector</span>
-    </h3>
-</doc-anchor-target>
-<p><figure class="content-center">
-    <img src="../../media/gripper1.jpg" alt="" />
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
-<p>Our member, <a href="https://github.com/highzer0">highzer0</a>, has been experiencing on his gripper mechanism before using rack and pinion mechanism as the base.</p>
-<p>It can hold different pieces:</p>
-<doc-anchor-target id="control-system">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#control-system">#</doc-anchor-trigger>
-        <span>Control system</span>
-    </h3>
-</doc-anchor-target>
-<p>aaaaaaa</p>
-<p>The following segments summarizes some design-relevant materials and their properties.</p>
-<doc-anchor-target id="shaped-aluminum">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#shaped-aluminum">#</doc-anchor-trigger>
-        <span>Shaped aluminum</span>
-    </h3>
-</doc-anchor-target>
-<p>Aluminum is non-magnetic, and an excellent electrical and thermal conductor.</p>
-<doc-anchor-target id="plexiglass">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#plexiglass">#</doc-anchor-trigger>
-        <span>Plexiglass</span>
-    </h3>
-</doc-anchor-target>
-<p>Also known as acrylic or mica, plexiglass is widely available as sheets.</p>
-<doc-anchor-target id="pla-plastic">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#pla-plastic">#</doc-anchor-trigger>
-        <span>PLA plastic</span>
-    </h3>
-</doc-anchor-target>
-<p>PLA stands for <em>Polylactic acid</em> - a thermoplastic monomer derived from renewable, organic sources such as corn starch or sugar cane.</p>
-<doc-anchor-target id="controller">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#controller">#</doc-anchor-trigger>
-        <span>Controller</span>
-    </h3>
-</doc-anchor-target>
-<p>Arduino Mega 2560</p>
-<doc-anchor-target id="actuator">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#actuator">#</doc-anchor-trigger>
-        <span>Actuator</span>
-    </h3>
-</doc-anchor-target>
-<doc-anchor-target id="stepper-motor">
-    <h5>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#stepper-motor">#</doc-anchor-trigger>
-        <span>Stepper motor</span>
-    </h5>
-</doc-anchor-target>
-<p>Nema 17</p>
-<doc-anchor-target id="motor-driver">
-    <h5>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#motor-driver">#</doc-anchor-trigger>
-        <span>Motor driver</span>
-    </h5>
-</doc-anchor-target>
-<p>TB6600</p>
-<doc-anchor-target id="power-source">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#power-source">#</doc-anchor-trigger>
-        <span>Power source</span>
-    </h3>
-</doc-anchor-target>
-<p>18650 baterries</p>
-<doc-anchor-target id="communication">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#communication">#</doc-anchor-trigger>
-        <span>Communication</span>
-    </h3>
-</doc-anchor-target>
-<p>Bluetooth</p>
+<p>P04.32.00 ⠀<a href="p04-32-00-drivetrain/">Drivetrain</a><br />
+P04.32.01 ⠀<a href="p04-32-01-manipulator/">Manipulator</a><br />
+P04.32.02 ⠀<a href="p04-32-02-ee/">End effector</a><br />
+P04.32.03 ⠀<a href="p04-32-03-control-system/">Control system</a></p>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
@@ -365,10 +252,10 @@
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../../../projects/p04-submarine/p04-30-39-technical-details/p04-33-software/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../../../projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/p04-32-00-drivetrain/">
                                             <span>
                                                 <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
-                                                <span class="block mt-1">P​04.​34⠀Software implementation</span>
+                                                <span class="block mt-1">P​04.​32.​00 Drivetrain</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                         </a>
@@ -412,7 +299,7 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script>window.__DOCS__ = { "title": "P04.33⠀Hardware implementation", level: 4, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+    <script>window.__DOCS__ = { "title": "P04.32⠀Hardware implementation", level: 4, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
 
     <style>
     @font-face {
