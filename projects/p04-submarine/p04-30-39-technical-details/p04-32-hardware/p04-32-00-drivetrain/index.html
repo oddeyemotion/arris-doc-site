@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/odd">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738681685516">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.738682901561">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -33,11 +33,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/odd/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../../../resources/css/retype.css?v=2.4.0.738681685516" rel="stylesheet" />
+    <link href="../../../../../resources/css/retype.css?v=2.4.0.738682901561" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../../../../resources/js/config.js?v=2.4.0.738681685516" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../../../../resources/js/config.js?v=2.4.0.738682901561" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../../../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../../../../resources/js/lunr.js?v=2.4.0.738681685516" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../../../../resources/js/lunr.js?v=2.4.0.738682901561" data-turbo-eval="false" defer></script>
 
     <link href="./static/custom.css" rel="stylesheet">
     <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
@@ -218,6 +218,15 @@
 </a> <span class="no-link inline-flex items-center justify-center font-medium leading-none whitespace-nowrap text-blue-600 bg-blue-100 h-6 px-2 text-xs rounded-md">
     <span>robot-car</span>
 </span></p>
+<style>
+figcaption {
+  color: #9D9D9D;
+  font-style: italic;
+  font-size: 19px;
+  padding: 0px;
+  text-align: center;
+}
+</style>
 <doc-anchor-target id="framework-construction">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#framework-construction">#</doc-anchor-trigger>
@@ -263,20 +272,11 @@
         <span>Customized omni wheels</span>
     </h3>
 </doc-anchor-target>
-<p><img src="../../../media/omni-wheel-screenshot.jpg" alt="" /><figure>
-<figcaption>Finalized assemble file. Front view (above) and Back view (below).</figcaption></p>
+<p><img src="../../../media/assembled-omni-wheel.jpg" alt="" /><figure>
+<figcaption>A complete omni wheel: front view (left) and back view (right). Designed to be compatible with hexagonal motor adapter.</figcaption></p>
 </figure>
 <p>Our team initially used four 65mm tractor wheels for the frame of our robot. However, when operating the vehicle, we observed car bumps. This was due to friction on all four wheels and there is no way to guarantee that all wheels would make contact with the ground in the same way.</p>
 <p>To address this issue, we learned about the <strong>front axle steering mechanism</strong> in cars and tried to mimic it in our robot. To do this in a simpler way, we chose to replace two front wheels with omni wheels. We had some 48mm and 58mm omni wheels available at our place.</p>
-<style>
-figcaption {
-  color: #9D9D9D;
-  font-style: italic;
-  font-size: 19px;
-  padding: 0px;
-  text-align: center;
-}
-</style>
 <p><img src="../../../media/front-axle-steering.gif" alt="" /><figure>
 <figcaption> Example of simple front axle steering mechanism. Credit: <a href="https://youtu.be/kNf7N4m41UQ">Koshish all time - Youtube</a></figcaption></p>
 </figure>
@@ -303,9 +303,12 @@ figcaption {
 <p><img src="../../../media/omni-wheel-calculation.png" alt="" /><figure>
 <figcaption>Recalculated version based on original design. Outer circle (the largest) is 66mm in diameter.</figcaption></p>
 </figure>
+<p><img src="../../../media/omni-wheel-screenshot.jpg" alt="" /><figure>
+<figcaption>Finalized assemble file. Front view (above) and Back view (below).</figcaption></p>
+</figure>
 <p>We produced new omni wheels with the new files and their diameters fit really close to the tractor wheels&#x27; diameters.</p>
 <p><img src="../../../media/omni-wheel-compare.jpg" alt="" /><figure>
-<figcaption>Size comparison of tractor wheel and our DIY omni wheel. Upper &amp; lower left: with uncovered rollers. Upper &amp; lower right: with covered rollers.</figcaption></p>
+<figcaption>Size comparison between 65mm tractor wheel and our DIY omni wheel. Upper &amp; lower left: with uncovered rollers. Upper &amp; lower right: with covered rollers.</figcaption></p>
 </figure>
 <p>The customized omni wheels enabled us to operate our robot car smoothly and without any car bumps. The steering performance of the robot car was also improved.</p>
 <div class="flex mb-6">
