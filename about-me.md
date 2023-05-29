@@ -5,18 +5,18 @@ label: About me
 # :icon-info: About me
 
 ![](/media/about-me1.jpg)
-Xin chào! This is Arris.\
-I am a university student based in Ho Chi Minh City, Vietnam.
+Xin chào! This is **Arris**.\
+I was born in 1999 (now 24) and am a university student based in Ho Chi Minh City, Vietnam.
 
-Clearly Arris is not my real name, but from time to time I got a lot of people struggling with the pronunciation, so for now, please refer to me by that.
+As you may have guessed, Arris is not my real name. My full name is **Lê Thị Thúy Hằng** (in English order: **Hang Thi-Thuy Le**). However, I often get people struggling to pronounce my name, so if you don't speak Vietnamese, please just refer to me by my alias.
 
 |
 --- | ---
 
 ### Fields of interest
-Currently, I am working towards my bachelor's degree in ***Computer Science***.
+Currently, I am working towards my bachelor's degree in **Computer Science**.
 
-Despite being active in one of the most heavily-theoretical field (in my opinion), I have found that I do better on tasks that require a lot of physical practice. And that was basically the main reason why my passion for another field of study was sparked - ***Robotics***.
+Despite being active in one of the most heavily-theoretical field (in my opinion), I have found that I do better on tasks that require a lot of physical practice. And that was basically the main reason why my passion for another field of study was sparked - **Robotics**.
 
 I have been spending most of my time in university self-teaching everything about robotics. I have participated in some school contests as well, together with friends from different engineering majors. *(Pretty sad that I never got a chance to win any, but I absolutely adore every moment working in groups and having fun with them.)*
 
@@ -65,7 +65,7 @@ figcaption {
 
 <figure>
     <img src="https://raw.githubusercontent.com/oddeyemotion/odd/main/media/about-me3.png" alt="A Fusion 360 screenshot">
-    <figcaption>A Fusion 360 screenshot</figcaption>
+    <figcaption>One of my works in Fusion 360</figcaption>
 </figure>
 
 !!!

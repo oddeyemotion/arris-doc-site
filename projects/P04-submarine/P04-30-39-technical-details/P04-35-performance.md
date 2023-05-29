@@ -9,6 +9,11 @@ label: P04.35⠀Performance
 
 These words were the culmination of several weeks of hard work and effort leading up to our battles against competitive, experienced and potentious competitors.
 
+### Preliminary round
+We finished in 6th place and earned the right to choose our opponents in the next round.\
+Recorded footage:
+[!embed](https://youtu.be/b_K1lUIpRNw)
+
 ### Elimination round
 Recorded footage:
 [!embed](https://youtu.be/G6eeTzZlGsk)

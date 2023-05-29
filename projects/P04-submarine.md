@@ -44,14 +44,14 @@ And most importantly, you may find useful resources at
 ==- P04.30 > 39⠀Technical details
 The following segments break down the entire car structure into smaller pieces of material. Most discussions concern the last finalized version of the project.
 
-P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md) *- As the name stated*\
-P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md) *- As the name stated*\
-P04.32 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware.md) *- As the name stated*\
-P04.33 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-software.md) *- As the name stated*\
-P04.34 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md) *- How the whole thing operates*\
-P04.35 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-35-performance.md) *- Recap from matches*\
-P04.36 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-36-optimization.md) *- What could be better?*\
-P04.37 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-37-version-archive.md) *- Here we store previous designs on some parts of the robot.*
+P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md) *- Showcases the design process for our robot car.*\
+P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md) *- Provides information about all the tools and machines used in the process of creating our robot.*\
+P04.32 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware.md) *- This section details the process of our team's hardware implementation, from choosing the materials to assembling the circuit.*\
+P04.33 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-software.md) *- Learn about the source code that powers our robot car, including the different modules and how they work together.*\
+P04.34 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md) *- Watch our robot car in action as it attempts to complete a variety of tasks.*\
+P04.35 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-35-performance.md) *- Footage and recaps of our performance in the tournament.*\
+P04.36 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-36-optimization.md) *- Provide readers with a list of things that our team could have done better in the tournament. It will also include notes and tips on how to improve your own robot car.*\
+P04.37 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-37-version-archive.md) *- See how our robot car has evolved over time by viewing our past attempts at manufacturing its parts.*
 ===
 
 |

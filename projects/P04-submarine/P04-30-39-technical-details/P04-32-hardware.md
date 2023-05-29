@@ -14,6 +14,8 @@ P04.32.01 ⠀[Manipulator](/projects/P04-submarine/P04-30-39-technical-details/P
 P04.32.02 ⠀[End effector](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware/P04-32-02-ee.md)\
 P04.32.03 ⠀[Control system](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware/P04-32-03-control-system.md)
 
+Once all of the components have been combined, the robot is ready to be tested and used.
+
 |
 --- | ---
 
