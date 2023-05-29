@@ -36,11 +36,12 @@ I am also working as a spare-time artist under the alias "K". You may have seen 
 - When a new problem arises, I do my research and come up with the solution in a relatively short time.
 
 ##### Something to concern about me
-I was diagnosed with [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/) in early 2023 and am actively in professional medical treatment. While overall functioning of my brain has improved since then, I still have to deal with the symptoms at every moment (only they are much easier to control) combining with side effects from my medication. Some of these characteristics are:
+As mentioned in [Preface](/README.md), I was diagnosed with [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/) in early 2023 and am actively in professional medical treatment. While overall functioning of my brain has improved since then, I still have to deal with the symptoms at every moment (only they are much easier to control) combining with side effects from my medication. Some of these characteristics are:
+- Extreme dehydration.
 - Time blindness.
+- Memory difficulties.
 - Unable to figure out any detail when looking at multiple different objects/text squeezed in the same small area. This may triggers my anxiety for some time.
 - Relative to the above: Unable to process if I was forced to listen to multiple sounds from different sources. However, I can distinguish sounds if they come from one source only (such as a recorded audio file).
-- Extreme dehydration.
 - Random unintentional pondering sessions.
 
 |

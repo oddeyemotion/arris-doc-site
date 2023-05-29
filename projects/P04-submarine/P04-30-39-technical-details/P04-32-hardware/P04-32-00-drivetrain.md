@@ -9,11 +9,15 @@ label: P04.32.00 Drivetrain
 *More details in future updates*
 !!!
 
+### Construction supplies
+
 A common practice in robotics tournaments is to use pre-built kits of parts or even pre-built frames to minimize the time required, and it would be really advantageous to do so. However, in our current country of residence (Vietnam) we can only find robot car kits that look like this:
 
 ![](/projects/P04-submarine/media/pre-built-robot-cars-vn.png)
 
-These are good for starters and those who want to try small scale projects, but to protect our castle we need something way more bigger.
+These are good for starters and those who want to try small scale projects, but to protect our castle we need something way more bigger.\
+A multipurpose platform is non-existence.\
+After tons of researching we decided to go with the most resourceful material we could find here: shaped aluminum.
 
 ![](/projects/P04-submarine/media/drivetrain1.jpg)
 

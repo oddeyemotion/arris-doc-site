@@ -44,14 +44,14 @@ And most importantly, you may find useful resources at
 ==- P04.30 > 39⠀Technical details
 The following segments break down the entire car structure into smaller pieces of material. Most discussions concern the last finalized version of the project.
 
-P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md)\
-P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md)\
-P04.32 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware.md)\
-P04.33 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-software.md)\
-P04.34 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md)\
-P04.35 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-35-performance.md)\
-P04.36 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-36-optimization.md)\
-P04.37 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-37-version-archive.md)
+P04.30 ⠀[The design](/projects/P04-submarine/P04-30-39-technical-details/P04-30-the-design.md) *- As the name stated*\
+P04.31 ⠀[Equipment](/projects/P04-submarine/P04-30-39-technical-details/P04-31-equipment.md) *- As the name stated*\
+P04.32 ⠀[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware.md) *- As the name stated*\
+P04.33 ⠀[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-software.md) *- As the name stated*\
+P04.34 ⠀[Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md) *- How the whole thing operates*\
+P04.35 ⠀[Performance](/projects/P04-submarine/P04-30-39-technical-details/P04-35-performance.md) *- Recap from matches*\
+P04.36 ⠀[Optimization](/projects/P04-submarine/P04-30-39-technical-details/P04-36-optimization.md) *- What could be better?*\
+P04.37 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-37-version-archive.md) *- Here we store previous designs on some parts of the robot.*
 ===
 
 |

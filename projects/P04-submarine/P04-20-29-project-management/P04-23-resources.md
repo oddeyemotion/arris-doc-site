@@ -9,6 +9,10 @@ label: P04.23⠀Resources
 *Available in future updates*
 !!!
 
+### Working facility
+
+### Incorporeal factors
+
 |
 --- | ---
 
