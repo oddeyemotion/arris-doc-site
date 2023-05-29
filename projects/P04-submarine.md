@@ -58,7 +58,7 @@ P04.37 ⠀[Version archive](/projects/P04-submarine/P04-30-39-technical-details/
 --- | ---
 
 ### Why this site?
-It seems like we lose a lot of collective knowledge with every undocumented project. This generally limits the success factor of any newly formed team as members spend time relearning concepts and repeating past mistakes. Those who have experience in certain areas have to train novice members and thus robs everyone of their time. Preventing this from happening will help us work more efficiently.
+It seems like we lose a lot of collective knowledge with the lack of documentation in projects. This generally limits the success factor of any newly formed team as members spend time relearning concepts and repeating past mistakes. Those who have experience in certain areas have to train novice members and thus robs everyone of their time. Preventing this from happening will help us work more efficiently.
 
 Since this knowledge base was primarily intended for internal use by [Team Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-13-team-submarine.md), there might be some sections that do not fit to others. Nevertheless, the vast majority of the content should be applicable to most projects. So, if you'd like to use this as a resource for your study, feel free.
 

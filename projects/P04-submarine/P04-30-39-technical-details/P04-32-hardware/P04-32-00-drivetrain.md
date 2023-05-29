@@ -19,7 +19,9 @@ We therefore decided to build our own robot car chassis from scratch. We chose t
 
 Our choice of drivetrain is **Hybrid 4WD** - 4-wheel drive consists of 2 different pairs of wheel of different type.
 
-> Author's note: I will write more here
+!!! Author's note
+I will write more here
+!!!
 
 The construction of the chassis took one week. The final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs of the competition, and we were confident that the chassis would be able to withstand the rigors of competition.
 
@@ -61,6 +63,10 @@ Upon inspection of the test version, we determined that the diameter of our newl
 </figure>
 
 We produced new omni wheels with the new files and their diameters fit really close to the tractor wheels' diameters.
+
+![](/projects/P04-submarine/media/omni-wheel-compare.jpg)<figure>
+    <figcaption>Size comparison of tractor wheel and our DIY omni wheel. Upper & lower left: with uncovered rollers. Upper & lower right: with covered rollers.</figcaption>
+</figure>
 
 The customized omni wheels enabled us to operate our robot car smoothly and without any car bumps. The steering performance of the robot car was also improved.
 

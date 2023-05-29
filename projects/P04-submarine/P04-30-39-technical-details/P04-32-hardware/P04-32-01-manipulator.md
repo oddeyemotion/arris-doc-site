@@ -15,29 +15,42 @@ figcaption {
 }
 </style>
 
+!!!
+*More details in future updates*
+!!!
+
 We wanted to take advantage on linear forward only motion.
 
 ![](/projects/P04-submarine/media/elevator1.jpg)
 
 It is capable of reaching ~70 cm of height.
 
+### Framing
+Using 2020 aluminum extrusion.
+
+### Power transmission
 The stepper motor is mechanically coupled to a pair of 1:1 gears, which transmit power to the other gear. The other gear, in turn, rotates the shaft. Two continuous cable routings are attached to the shaft at either end. The cable routings provide the lifting force to move a platform up and down along the Z-axis.
+
+[!embed](https://youtu.be/oNaIIKHAuEU)<figure>
+    <figcaption>Elevator lifting through geared power transmission, focused</figcaption>
+</figure>
 
 [!embed](https://youtu.be/7w6wZdJjlwo)<figure>
     <figcaption>Geared stepper motor, double Z-axis lifting system</figcaption>
 </figure>
 
 [!embed](https://youtu.be/WC9uPAJOuts)<figure>
-    <figcaption>1:1 gear power transmission module close-up</figcaption>
+    <figcaption>1:1 gear power transmission module, focused</figcaption>
 </figure>
 
 ![](/projects/P04-submarine/media/transmission-close-up.jpg)<figure>
-    <figcaption>Power transmission shaft close-up</figcaption>
+    <figcaption>Power transmission shaft assemble close-up</figcaption>
 </figure>
+
 pillow block bearing
 
 [!embed](https://youtu.be/tvxGr6h1PH0)<figure>
-    <figcaption>Power transmission shaft bearing mount close-up</figcaption>
+    <figcaption>Power transmission shaft bearing mount, focused</figcaption>
 </figure>
 
 [!embed](https://youtu.be/vEQTLgSBcy8)<figure>

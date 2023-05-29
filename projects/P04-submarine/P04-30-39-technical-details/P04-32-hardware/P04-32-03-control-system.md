@@ -9,7 +9,10 @@ label: P04.32.03 Control system
 *More details in future updates*
 !!!
 
+### Chassis-mounted circuit
 ![](/projects/P04-submarine/media/toggle-switch-lmao.jpg)
+
+### Gripper module circuit
 ![](/projects/P04-submarine/media/circuit-temp.jpg)
 
 |
