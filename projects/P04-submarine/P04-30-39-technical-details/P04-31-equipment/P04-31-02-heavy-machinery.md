@@ -46,12 +46,17 @@ However, due to its high noise level and the intense dust problem, we are not ye
 |
 --- | ---
 
-### Power drill
-!!!
-*More details in future updates*
-!!!
+### Cordless power drills
+
+A power drill is a practical tool that can be used for a variety of tasks in robot making, including:
+
+- Drilling holes
+- Screwing and unscrewing screws
+- Sanding wood and other materials
 
 ![](https://www.realsimple.com/thmb/3_My8MHh4vVQZ96KZ-BEza6Ex6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rs-best-cordless-drills-of-2023-tout-3c458303af9c4174a6e4351be09b7d1b.jpg)
+
+When beginning robot making without the budget for a power drill, one may use mini drills and hand tools. However, we recommend purchasing one. It is a worthwhile investment that will save time and frustration in the long run.
 
 |
 --- | ---

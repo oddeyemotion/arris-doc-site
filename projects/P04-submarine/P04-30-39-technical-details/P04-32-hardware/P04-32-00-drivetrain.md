@@ -5,6 +5,16 @@ label: P04.32.00 Drivetrain
 # :icon-cpu:⠀Drivetrain
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+<style>
+figcaption {
+  color: #9D9D9D;
+  font-style: italic;
+  font-size: 19px;
+  padding: 0px;
+  text-align: center;
+}
+</style>
+
 ### Framework construction
 
 A common practice in robotics tournaments is to use pre-built kits of parts or even pre-built frames to minimize the time required, and it would be really advantageous to do so. However, in our current country of residence (Vietnam) we can only find robot car kits that look like this:
@@ -26,24 +36,14 @@ I will write more here
 The construction of the chassis took one week. The final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs of the competition, and we were confident that the chassis would be able to withstand the rigors of competition.
 
 ### Customized omni wheels
-
-![](/projects/P04-submarine/media/omni-wheel-screenshot.jpg)<figure>
-    <figcaption>Finalized assemble file. Front view (above) and Back view (below).</figcaption>
+![](/projects/P04-submarine/media/assembled-omni-wheel.jpg)<figure>
+    <figcaption>A complete omni wheel: front view (left) and back view (right). Designed to be compatible with hexagonal motor adapter.</figcaption>
 </figure>
 
 Our team initially used four 65mm tractor wheels for the frame of our robot. However, when operating the vehicle, we observed car bumps. This was due to friction on all four wheels and there is no way to guarantee that all wheels would make contact with the ground in the same way.
 
 To address this issue, we learned about the **front axle steering mechanism** in cars and tried to mimic it in our robot. To do this in a simpler way, we chose to replace two front wheels with omni wheels. We had some 48mm and 58mm omni wheels available at our place.
 
-<style>
-figcaption {
-  color: #9D9D9D;
-  font-style: italic;
-  font-size: 19px;
-  padding: 0px;
-  text-align: center;
-}
-</style>
 ![](/projects/P04-submarine/media/front-axle-steering.gif)<figure>
     <figcaption> Example of simple front axle steering mechanism. Credit: <a href="https://youtu.be/kNf7N4m41UQ">Koshish all time - Youtube</a></figcaption>
 </figure>
@@ -62,10 +62,14 @@ Upon inspection of the test version, we determined that the diameter of our newl
     <figcaption>Recalculated version based on original design. Outer circle (the largest) is 66mm in diameter.</figcaption>
 </figure>
 
+![](/projects/P04-submarine/media/omni-wheel-screenshot.jpg)<figure>
+    <figcaption>Finalized assemble file. Front view (above) and Back view (below).</figcaption>
+</figure>
+
 We produced new omni wheels with the new files and their diameters fit really close to the tractor wheels' diameters.
 
 ![](/projects/P04-submarine/media/omni-wheel-compare.jpg)<figure>
-    <figcaption>Size comparison of tractor wheel and our DIY omni wheel. Upper & lower left: with uncovered rollers. Upper & lower right: with covered rollers.</figcaption>
+    <figcaption>Size comparison between 65mm tractor wheel and our DIY omni wheel. Upper & lower left: with uncovered rollers. Upper & lower right: with covered rollers.</figcaption>
 </figure>
 
 The customized omni wheels enabled us to operate our robot car smoothly and without any car bumps. The steering performance of the robot car was also improved.
