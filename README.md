@@ -27,16 +27,18 @@ This [website](https://oddeyemotion.github.io/odd/) was created by [Arris](/abou
 > I really hope I could get an internship somewhere in the industry :<
 
 ### But why so many details?
-As a [neurodivergent](https://www.verywellmind.com/what-is-neurodivergence-and-what-does-it-mean-to-be-neurodivergent-5196627), specifically [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/) which can be briefly described as "attention difficulty", I have spent most of my life struggling with knowledge acquisition and retrieve. When compelled to contend with various distractions, it is way too challenging to follow all the bouncing balls in a procedure to be able to extract the most salient information. For individuals with cognitive disorders like mine, **note-taking skills** and **knowledge base management** with the help of assistive software are considered necessary.
+My knowledge and experience are being shared with others through this dedicated documentation site. As a [neurodivergent](https://www.verywellmind.com/what-is-neurodivergence-and-what-does-it-mean-to-be-neurodivergent-5196627), specifically [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/) which can be briefly described as "attention difficulty", I have spent most of my life struggling with knowledge acquisition and retrieve. When compelled to contend with various distractions, it is way too challenging to follow all the bouncing balls in a procedure to be able to extract the most salient information. For individuals with cognitive disorders like mine, **note-taking skills** and **knowledge base management** with the help of assistive software are considered necessary.
 
 Particularly, in project-based learning, **documentation** is an essential tool to optimize future engineering projects. Relying solely on memory to get work done can lead to forgetting important steps, such as creating backup files or editing certain points. Through thorough documentation of the process, it becomes easy to refer back and avoid getting lost or distracted. By providing a guide, one can follow the instructions to ensure consistent and predictable outcomes every time. This not only saves time and prevents frustration, but also provides a clear record of what has been done, which is beneficial for revisiting a project later or handing it off to someone else. Proper documentation also enables identification of areas for improvement and refining the process over time with confidence.
 
 <figure>
-    <img src="https://64.media.tumblr.com/aea033d9a7c041c222146d1af9874bd4/tumblr_pq61h5uUHE1wvcbfqo1_1280.gif" alt="Credit: @stardust-specks on Tumblr">
-    <figcaption>Personal note space I used in the lastest project <a href="">Submarine</a>.</figcaption>
+    <img src="https://raw.githubusercontent.com/oddeyemotion/odd/main/media/note-taking.png" alt="Personal note space I used in my lastest project - Submarine">
+    <figcaption>Personal note space I used in my lastest project <a href="https://oddeyemotion.github.io/odd/projects/p04-submarine/">Submarine</a>.</figcaption>
 </figure>
 
-To conclude, maintaining the habit of recapitulate everything in as much detail as possible helps ensure expectations, promotes uniformity, and provides a legacy. Therefore, lead to more successful and efficient projects.
+In other words, maintaining the habit of recapitulate everything in as much detail as possible helps ensure expectations, promotes uniformity, and provides a legacy. Therefore, lead to more successful and efficient projects.
+
+I hope this documentation site will be a valuable resource for anyone interested in robotics - especially my fellow Vietnamese young lads who are just starting out. I believe robotics is a fascinating and rewarding field, and I want to help others discover the joy of robotics, so they can use their skills to make a positive impact on the world.
 
 ### Site development
 The site was generated with [Retype](https://retype.com/) - a text-based static website generator. All pages was written in [Markdown](https://www.markdownguide.org/getting-started/). This really helps optimizing my time to focus on the detail rather than desperately trying to develop everything from scratch. My best regards to the developers for such a free yet so useful and really easy to use tool.
