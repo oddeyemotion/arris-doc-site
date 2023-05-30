@@ -31,8 +31,9 @@ I am also working as a spare-time artist under the alias "K". You may have seen 
 
 ### Technical skills
 
+Written and verbal communication languages: ```English (plus a little bit of some other languages)```\
 Programming languages: ```C/C++, Python, Java, HTML/CSS/Javascript```\
-Communication: ```Vietnamese, English, Polish, Cantonese```\
+Operating systems: ```Windows, Linux```\
 Softwares: ```Autodesk Fusion 360, KiCAD, etc```
 
 <style>
@@ -61,6 +62,7 @@ figcaption {
 ##### What I am capable of
 >- I have extensive experience working in groups as the leader and in teams as the team captain. I am adaptable to different personalities and am always willing to help others.
 >- I control my temper very well and perform thoroughly under pressure.
+>- My organizational skills allow me to always know where everything is. I am also able to keep track of multiple projects at once and prioritize my tasks efficiently.
 >- Diligent work, a willingness to learn new things, and a constant drive for improvement are all qualities that I possess. When a new problem arises, I research and analyze the information until I am able to identify and implement a solution in a relatively short period of time.
 
 I believe that my qualities would make me a positive contribution to any team.

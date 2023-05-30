@@ -5,7 +5,7 @@ label: P04.35⠀Performance
 # :icon-flame:⠀Performance
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
-"Submarine - we are unshrinking."
+> "Submarine - we are unshrinking."
 
 These words were the culmination of several weeks of hard work and effort leading up to our battles against competitive, experienced and potentious competitors.
 

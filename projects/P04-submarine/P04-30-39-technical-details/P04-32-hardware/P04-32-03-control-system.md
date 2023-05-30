@@ -23,8 +23,10 @@ The signal communication for the chassis mounted circuit is handled by an HC-06 
 
 The chassis mounted circuit is a complex system that is responsible for controlling all of the robot's components. It is a critical part of the robot and is essential for its operation.
 
-### Gripper module circuit
 ![](/projects/P04-submarine/media/circuit-temp.jpg)
+
+### Gripper module circuit
+
 
 |
 --- | ---

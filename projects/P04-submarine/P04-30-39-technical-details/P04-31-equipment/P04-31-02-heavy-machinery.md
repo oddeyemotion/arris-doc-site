@@ -10,7 +10,7 @@ These power tools have become indispensable in the design and construction of ou
 ### FDM 3D printer
 Generally accepted as the simplest way to 3D print stuff, FDM is accessible, reasonably efficient, and widely popular. A typical FDM 3D printer takes a polymer-based filament and forces it through a heated nozzle, which melts the material and deposits it in 2D layers on the build platform. While still warm, these layers fuse with each other to eventually create a three-dimensional part.
 
-As for [Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md), the entire manufacturing process takes place in our member [oddeyemotion](/about-me.md)'s personal work studio, where an [Ender-3 V2 3D printer](https://www.creality.com/products/ender-3-v2-3d-printer-csco) is already equipped.
+As for [Submarine](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md), the entire manufacturing process takes place in our member [oddeyemotion](https://github.com/oddeyemotion)'s personal work studio, where an [Ender-3 V2 3D printer](https://www.creality.com/products/ender-3-v2-3d-printer-csco) is already equipped.
 
 <style>
 figcaption {

@@ -17,7 +17,7 @@ To watch it move, check out [Testing](/projects/P04-submarine/P04-30-39-technica
 
 Overall frame is constructed with [T-slotted 2020 aluminum framing rails](https://en.wikipedia.org/wiki/T-slot_structural_framing) and compatible profile mounting accessories, features a very unique continuous belt routing elevator using **1:1 gear power transmission technique**.
 
-![](/projects/P04-submarine/media/1-1-gear-transmission.jpg)
+[!embed](https://youtu.be/us9LYFUomLg)
 
 The robot has two Arduino micro-controller boards, one for propulsion control and one for end effector state switching. Each communicates directly with a separate Android device via a paired Bluetooth module connected to its integrated pins. The boards are programmable using the [Arduino IDE](https://www.arduino.cc/en/software).
 

@@ -5,6 +5,7 @@ label: P04.27⠀Media
 # :icon-device-camera:⠀Media
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
+### Videos
 All videos related to this project will be uploaded to this playlist:
 
 <div>
@@ -15,7 +16,23 @@ All videos related to this project will be uploaded to this playlist:
 
 ⠀
 
-|
+### Photo gallery
+![](/projects/P04-submarine/media/team-submarine.jpg) |
+--- |
+
+![](/projects/P04-submarine/media/goggly-eyes1.jpg) |
+--- |
+
+![](/projects/P04-submarine/media/pre-knock-out1.jpg) |
+--- |
+
+![](/projects/P04-submarine/media/pre-preliminary1.jpg) |
+--- |
+
+![](/projects/P04-submarine/media/pre-knock-out2.jpg) | ![](/projects/P04-submarine/media/pre-elimination1.jpg)
+--- | ---
+
+![](/projects/P04-submarine/media/l293-diy.jpg) | ![](/projects/P04-submarine/media/calculations.jpg)
 --- | ---
 
 <figure>

@@ -40,13 +40,28 @@ The construction of the chassis took one week. The final product was a strong an
     <figcaption>A complete omni wheel: front view (left) and back view (right). Designed to be compatible with hexagonal motor adapter.</figcaption>
 </figure>
 
-Our team initially used four 65mm tractor wheels for the frame of our robot. However, when operating the vehicle, we observed car bumps. This was due to friction on all four wheels and there is no way to guarantee that all wheels would make contact with the ground in the same way.
+Our team initially used four 65mm tractor wheels for the frame of our robot. However, when operating the vehicle, we observed **car bumps**. Additionally, the car **cannot steer or turn in an expected path**. This is because the friction between the wheels and the ground caused the wheels to grip the ground, and there is no way to guarantee that all wheels would make contact with the ground in the same way.
 
-To address this issue, we learned about the **front axle steering mechanism** in cars and tried to mimic it in our robot. To do this in a simpler way, we chose to replace two front wheels with omni wheels. We had some 48mm and 58mm omni wheels available at our place.
+To address this issue, we learned about the **front axle steering mechanism** in cars and tried to mimic it in our robot. 
+
+!!! Author's note
+I will write more here
+!!!
+
+![](https://i.stack.imgur.com/ABuf0.jpg)
+<figure>
+    <figcaption> A 4WD car turns with its two front wheels. Credit: <a href="https://physics.stackexchange.com/questions/183777/car-wheels-in-a-turn">Car wheels in a turn - Physics Stack Exchange</a></figcaption>
+</figure>
 
 ![](/projects/P04-submarine/media/front-axle-steering.gif)<figure>
     <figcaption> Example of simple front axle steering mechanism. Credit: <a href="https://youtu.be/kNf7N4m41UQ">Koshish all time - Youtube</a></figcaption>
 </figure>
+
+To do this in a simpler way, we chose to replace two front wheels with omni wheels. 
+!!! Author's note
+I will write more here
+!!!
+We had some 48mm and 58mm omni wheels available at our place. 
 
 However, wheel detachments occurred during test drives. We found that the **circumferential difference** between the 65mm tractor wheels (the remaining wheels at the back) and the 48mm or 58mm omni wheels was too large and critical. This is because when the tractor wheels complete a full rotation, the omni wheels have already rotated more than once.
 

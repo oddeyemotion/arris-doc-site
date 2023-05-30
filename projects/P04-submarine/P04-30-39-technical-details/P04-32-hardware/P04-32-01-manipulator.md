@@ -29,6 +29,9 @@ It is capable of reaching ~70 cm of height.
 Using 2020 aluminum extrusion.
 
 ### Power transmission
+
+![](/projects/P04-submarine/media/1-1-gear-transmission.jpg)
+
 The stepper motor is mechanically coupled to a pair of 1:1 gears, which transmit power to the other gear. The other gear, in turn, rotates the shaft. Two continuous cable routings are attached to the shaft at either end. The cable routings provide the lifting force to move a platform up and down along the Z-axis.
 
 [!embed](https://youtu.be/oNaIIKHAuEU)<figure>

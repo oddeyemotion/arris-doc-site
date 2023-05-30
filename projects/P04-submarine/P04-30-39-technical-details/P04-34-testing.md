@@ -17,32 +17,19 @@ figcaption {
 }
 </style>
 
-|
---- | ---
-
-### Escalation of lifting mechanism
-[!embed](https://youtu.be/us9LYFUomLg)
-
-|
---- | ---
-
 ### Tasks execution
 
-[!embed](https://youtu.be/qsDjrVtP0jQ)<figure>
-    <figcaption>Energy units loading</figcaption>
-</figure>
+Energy units loading
+[!embed](https://youtu.be/qsDjrVtP0jQ)
 
-[!embed](https://youtu.be/dQBpm-p956s)<figure>
-    <figcaption>Cube stacking</figcaption>
-</figure>
+Cube stacking
+[!embed](https://youtu.be/dQBpm-p956s)
 
-[!embed](https://youtu.be/LNXM1sBJ9nc)<figure>
-    <figcaption>Land mines deactivation</figcaption>
-</figure>
+Land mine deactivation
+[!embed](https://youtu.be/LNXM1sBJ9nc)
 
-[!embed](https://youtu.be/wZ9pH-e4YPo)<figure>
-    <figcaption>Land mines repositioning</figcaption>
-</figure>
+Land mine repositioning
+[!embed](https://youtu.be/wZ9pH-e4YPo)
 
 |
 --- | ---
@@ -50,17 +37,14 @@ figcaption {
 ### Handling game pieces
 Focused shots show how our gripper grips rigid objects.
 
-[!embed](https://youtu.be/Y82cVY7u1eI)<figure>
-    <figcaption>Cube grasping</figcaption>
-</figure>
+Cube grasping
+[!embed](https://youtu.be/Y82cVY7u1eI)
 
-[!embed](https://youtu.be/qmKltU4DcI0)<figure>
-    <figcaption>Energy unit grasping</figcaption>
-</figure>
+Energy unit grasping
+[!embed](https://youtu.be/qmKltU4DcI0)
 
-[!embed](https://youtu.be/4e_5RmUtzUo)<figure>
-    <figcaption>Flag grasping</figcaption>
-</figure>
+Flag grasping
+[!embed](https://youtu.be/4e_5RmUtzUo)
 
 |
 --- | ---

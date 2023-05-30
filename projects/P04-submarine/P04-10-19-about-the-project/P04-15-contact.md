@@ -10,14 +10,14 @@ If you have any questions regarding the project or the team, kindly send your me
 <section class="message-list">
       <section class="message -left">
 		<i style="margin-bottom:-60px;" class="nes-octocat animate"></i>
-        <div class="nes-balloon from-left is-dark"><p style="padding:0px; margin:0px; font-style: italic;"><img width="21" src="https://flagdownload.com/wp-content/uploads/Flag_of_Vietnam-4096x2731.png"> Hang Thi-Thuy Le</p>
+        <div class="nes-balloon from-left is-dark"><p style="padding:0px; margin:0px; font-style: italic;"><img width="21" src="https://flagdownload.com/wp-content/uploads/Flag_of_Vietnam-4096x2731.png"> Lê Thị Thúy Hằng</p>
 		<p style="padding:0px; margin:0px; font-style: italic; font-size: 19px;">HCMC University of Technology (HCMUT)</p>
 		<p style="padding:0px; margin:0px;">hang.le2911<span style="display:inline-block; color: #FFC6DA; font-size: 1.4em; margin-top: -10px;">@</span>hcmut.edu.vn</p>
 		</div>
       </section>
       <section class="message -left">
 		<i style="margin-bottom:-60px;" class="nes-octocat animate"></i>
-        <div class="nes-balloon from-left is-dark"><p style="padding:0px; margin:0px; font-style: italic;"><img width="21" src="https://media.istockphoto.com/id/500425531/vector/flag-of-united-kingdom.jpg?s=612x612&w=0&k=20&c=s1FXadZm6OdXeUHFdnLjBq89zZTNml66DY8xyAU9ygk="> Arris</p>
+        <div class="nes-balloon from-left is-dark"><p style="padding:0px; margin:0px; font-style: italic;"><img width="21" src="https://media.istockphoto.com/id/500425531/vector/flag-of-united-kingdom.jpg?s=612x612&w=0&k=20&c=s1FXadZm6OdXeUHFdnLjBq89zZTNml66DY8xyAU9ygk="> Hang Thi-Thuy Le (Arris)</p>
 		<p style="padding:0px; margin:0px;">oddeyemotion<span style="display:inline-block; color: #FFC6DA; font-size: 1.4em; margin-top: -10px;">@</span>protonmail.com</p>
 		</div>
       </section>
