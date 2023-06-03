@@ -21,7 +21,7 @@ A common practice in robotics tournaments is to use pre-built kits of parts or e
 
 ![](/projects/P04-submarine/media/pre-built-robot-cars-vn.png)
 
-The kits that were available were either too small or too weak for the competition. Additionally, the kits were not customizable, which would have made it difficult to make changes to the design if necessary.
+The kits that were available were either too small or too weak for the competition. Additionally, those were not customizable, which would have made it difficult to make changes to the design if necessary.
 
 We therefore decided to build our own robot car chassis from scratch. We chose to use 2020 aluminum extrusion for the frame, as this material is strong, lightweight, and easy to work with.
 
@@ -29,8 +29,8 @@ We therefore decided to build our own robot car chassis from scratch. We chose t
 
 Our choice of drivetrain is **Hybrid 4WD** - 4-wheel drive consists of 2 different pairs of wheel of different type.
 
-!!! Author's note
-I will write more here
+!!!
+*More details in future updates*
 !!!
 
 The construction of the chassis took one week. The final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs of the competition, and we were confident that the chassis would be able to withstand the rigors of competition.
@@ -44,8 +44,8 @@ Our team initially used four 65mm tractor wheels for the frame of our robot. How
 
 To address this issue, we learned about the **front axle steering mechanism** in cars and tried to mimic it in our robot. 
 
-!!! Author's note
-I will write more here
+!!!
+*More details in future updates*
 !!!
 
 ![](https://i.stack.imgur.com/ABuf0.jpg)
@@ -58,8 +58,8 @@ I will write more here
 </figure>
 
 To do this in a simpler way, we chose to replace two front wheels with omni wheels. 
-!!! Author's note
-I will write more here
+!!!
+*More details in future updates*
 !!!
 We had some 48mm and 58mm omni wheels available at our place. 
 

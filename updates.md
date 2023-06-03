@@ -22,7 +22,7 @@ The site is still in alpha development phase.
 
 ### Change logs
 === Alpha stage
-> **May 20th > Jun 3rd, 2023**\
+> **May 20th > Jun 2nd, 2023**\
 A portion of the pages are available for reading.
 > - [Preface](/README.md)
 > - [About me](/about-me.md)

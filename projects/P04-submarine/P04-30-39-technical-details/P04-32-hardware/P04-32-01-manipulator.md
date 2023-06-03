@@ -50,8 +50,6 @@ The stepper motor is mechanically coupled to a pair of 1:1 gears, which transmit
     <figcaption>Power transmission shaft assemble close-up</figcaption>
 </figure>
 
-pillow block bearing
-
 [!embed](https://youtu.be/tvxGr6h1PH0)<figure>
     <figcaption>Power transmission shaft bearing mount, focused</figcaption>
 </figure>
