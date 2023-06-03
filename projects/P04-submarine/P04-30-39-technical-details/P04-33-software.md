@@ -5,7 +5,7 @@ label: P04.33⠀Software implementation
 # :icon-code-square:⠀Software implementation
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
-In a lot of ways, the "intelligence" embodied by a robot can be viewed as a distributed attribute that starts with mechanical components and extends up through actuators and sensors, their local drivers and controllers, various subsidiary controllers, to (usually, but not always) a central, high-level coordinating controller.
+In a lot of ways, the "intelligence" embodied by a robot can be viewed as a distributed attribute that starts with mechanical components and extends up through actuators and sensors, their local drivers and controllers, to a central, high-level coordinating controller.
 
 Due to the simplistic nature of the game from a software perspective, we focused on the quick and quality implementation of our ideas on our robot. 
 

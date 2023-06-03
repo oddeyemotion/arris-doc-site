@@ -5,7 +5,7 @@ label: Preface
 # :icon-dependabot: Preface
 
 !!!
-Update on May 29th, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*
+Please visit [Updates](/updates.md) for a list of recent changes and acknowledged issues.
 !!!
 
 <style>
@@ -22,9 +22,12 @@ figcaption {
     <figcaption> Credit: <a href="https://stardust-specks.tumblr.com/post/184284932522/fairydust-f2u-header-dont-delete-my-caption">stardust-specks</a> on Tumblr</figcaption>
 </figure>
 
-This [website](https://oddeyemotion.github.io/odd/) was created by [Arris](/about-me.md) (myself) as a personal portfolio to showcase some of my projects related to both Computer Science and Robotics.
+[Odd](https://oddeyemotion.github.io/odd/) was created by [Arris](/about-me.md) (myself) as a personal portfolio to showcase some of my projects related to both Computer Science and Robotics.
+
+As the name suggests - *Odd*, this site is quite a haven for the strange and unusual. 
 
 > I really hope I could get an internship somewhere in the industry :<
+
 
 ### But why so many details?
 As a [neurodivergent](https://www.verywellmind.com/what-is-neurodivergence-and-what-does-it-mean-to-be-neurodivergent-5196627), specifically [ADHD](https://adhdclinic.co.uk/what-is-adhd-introduction/) which can be briefly described as "attention difficulty", I have spent most of my life struggling with knowledge acquisition and retrieve. When compelled to contend with various distractions, it is way too challenging to follow all the bouncing balls in a procedure to be able to extract the most salient information. For individuals with cognitive disorders like mine, **note-taking skills** and **knowledge base management** with the help of assistive software are considered necessary. 

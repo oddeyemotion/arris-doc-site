@@ -31,10 +31,10 @@ I am also working as a spare-time artist under the alias "K". You may have seen 
 
 ### Technical skills
 
-Written and verbal communication languages: ```English (plus a little bit of some other languages)```\
+Written and verbal communication languages: ```English, plus a little bit of some other languages```\
 Programming languages: ```C/C++, Python, Java, HTML/CSS/Javascript```\
-Operating systems: ```Windows, Linux```\
-Softwares: ```Autodesk Fusion 360, KiCAD, etc```
+Operating systems: ```Windows, Kali Linux```\
+Softwares: ```Autodesk Fusion 360, KiCAD, Fritzing, etc```
 
 <style>
 figcaption {

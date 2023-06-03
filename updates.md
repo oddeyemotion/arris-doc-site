@@ -5,15 +5,23 @@ order: -100
 ---
 # :icon-dependabot: Updates
 
-!!!
-Update on May 24th, 2023: *Currently deploying entries for [Submarine](/projects/P04-submarine.md) project.*
-!!!
-
 ### Current version
-The site is still in beta development phase (version 0).
+The site is still in alpha development phase.
 
 ### Acknowledged issues
+- The color of headings will not change to white upon initial load (they will appear in pink). Though this does not interfere with other functionalities, it is highly recommended to reload the site once *(and only once)* to ensure that the custom CSS script is fully loaded before continuing.
 - Light theme interface not yet synced with Dark theme.
-- Responsive features not fully map to phone screens' dimension.
+- Responsive features not fully map to vertical phone screens' dimension.
 - Some file names and section ID are wrongly paired or not identical.
 - Add-ons and sidebar buttons are disabled when accessing this site in Opera browser.
+
+### Change logs
+=== Alpha stage
+> **May 20th > Jun 3rd, 2023**\
+A portion of the pages are available for reading.
+> - [Preface](/README.md)
+> - [About me](/about-me.md)
+> - [Contact and emailing](/contacts.md)
+> - [P04 Submarine](/projects/P04-submarine.md) and part of its contents
+> - [Updates](/updates.md)
+===
