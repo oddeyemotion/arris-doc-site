@@ -1,17 +1,17 @@
 ---
 icon: cloud-offline
-label: P03⠀Pinky
+label: P03⠀Tyro
 order: 60
 ---
-# :icon-cloud-offline: Pinky
+# :icon-cloud-offline: Tyro
 
-![](https://raw.githubusercontent.com/oddeyemotion/pinky/main/media/robot-arm.jpg)
+![](https://raw.githubusercontent.com/oddeyemotion/tyro/main/media/robot-arm.jpg)
 
 !!!
 *Available in future updates*
 !!!
 
-:icon-mark-github: ⠀[Github](https://github.com/oddeyemotion/pinky)
+:icon-mark-github: ⠀[Github](https://github.com/oddeyemotion/tyro)
 
 |
 --- | ---
