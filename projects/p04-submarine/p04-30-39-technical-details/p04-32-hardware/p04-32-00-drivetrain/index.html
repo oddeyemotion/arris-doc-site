@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="turbo-root" content="/odd">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.740423482953">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.0.3.740432872100">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.0.3">
@@ -33,11 +33,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("/odd/doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../../../../resources/css/retype.css?v=3.0.3.740423482953" rel="stylesheet" />
+    <link href="../../../../../resources/css/retype.css?v=3.0.3.740432872100" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../../../../resources/js/config.js?v=3.0.3.740423482953" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../../../../resources/js/config.js?v=3.0.3.740432872100" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../../../../resources/js/retype.js?v=3.0.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../../../../resources/js/lunr.js?v=3.0.3.740423482953" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../../../../resources/js/lunr.js?v=3.0.3.740432872100" data-turbo-eval="false" defer></script>
 
     <link href="./static/custom.css" rel="stylesheet">
     <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet" />
@@ -246,25 +246,21 @@ figcaption {
     <figcaption class="caption"></figcaption>
 </figure>
 </p>
-<p>Our choice of drivetrain is <strong>Hybrid 4WD</strong> - 4-wheel drive consists of 2 different pairs of wheel of different type.</p>
-<div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
-        <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
-                <g fill="currentColor"><g>
-                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
-                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
-                    <path fill="none" d="M0 0h24v24H0z"></path>
-                </g></g>
-            </svg>
-        </div>
-        <div class="pr-5 ml-3 w-full">
-<p><em>More details in future updates</em></p>
-        </div>
-    </div>
-</div>
-<p>The construction of the chassis took one week. The final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs of the competition, and we were confident that the chassis would be able to withstand the rigors of competition.</p>
+<p>As for the wheeling system, our team initially used four identical 65mm tractor wheels. However, when operating the vehicle, we observed <strong>car bumps</strong>. Additionally, the car <strong>cannot steer or turn in an expected path</strong>. This is because the friction between the wheels and the ground caused the wheels to grip the ground, and there is no way to guarantee that all wheels would make contact with the ground in the same way.</p>
+<p>To address this issue, we learned about the <strong>front axle steering mechanism</strong> in cars and tried to mimic it in our robot.</p>
+<p><figure class="content-center">
+    <img src="https://i.stack.imgur.com/ABuf0.jpg" alt="" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+<figure>
+    <figcaption> A 4WD car turns with its two front wheels. Credit: <a href="https://physics.stackexchange.com/questions/183777/car-wheels-in-a-turn">Car wheels in a turn - Physics Stack Exchange</a></figcaption>
+</figure>
+<p><img src="../../../media/front-axle-steering.gif" alt="" /><figure>
+<figcaption> Example of simple front axle steering mechanism. Credit: <a href="https://youtu.be/kNf7N4m41UQ">Koshish all time - Youtube</a></figcaption></p>
+</figure>
+<p>To do this in a simpler way, we chose to replace two front wheels with omni wheels. This variation of drivetrain is called <strong>Hybrid 4WD</strong> - 4-wheel drive consists of 2 different pairs of wheel of different type. We began the test with some 48mm and 58mm omni wheels laying around at our work station. However, wheel detachments occurred during test drives. We found that the <strong>circumferential difference</strong> between the remaining wheels at the back (65mm) and our omni wheels (48mm and 58mm) was too large and critical. This is because when the tractor wheels complete a full rotation, the omni wheels have already rotated more than once.</p>
+<p>In an effort to find a more suitable solution, we came across a creative approach that involved self-manufacture and mechanical design knowledge.</p>
 <doc-anchor-target id="customized-omni-wheels">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#customized-omni-wheels">#</doc-anchor-trigger>
@@ -284,64 +280,14 @@ figcaption {
             </svg>
         </div>
         <div class="pr-5 ml-3 w-full">
-<p>STL files are now available on <a href="https://github.com/oddeyemotion/submarine/main/Hardware#diy-12-roller-omni-wheel">Github</a> and <a href="https://www.thingiverse.com/thing:6040100">Thingiverse</a>.</p>
+<p>STL files are now available on <a href="https://github.com/oddeyemotion/submarine/tree/main/Hardware/diy-12-roller-omni-wheel">Github</a> and <a href="https://www.thingiverse.com/thing:6040100">Thingiverse</a>.</p>
         </div>
     </div>
 </div>
 <p><img src="../../../media/assembled-omni-wheel.jpg" alt="" /><figure>
 <figcaption>A complete omni wheel: front view (left) and back view (right). Designed to be compatible with hexagonal motor adapter.</figcaption></p>
 </figure>
-<p>Our team initially used four 65mm tractor wheels for the frame of our robot. However, when operating the vehicle, we observed <strong>car bumps</strong>. Additionally, the car <strong>cannot steer or turn in an expected path</strong>. This is because the friction between the wheels and the ground caused the wheels to grip the ground, and there is no way to guarantee that all wheels would make contact with the ground in the same way.</p>
-<p>To address this issue, we learned about the <strong>front axle steering mechanism</strong> in cars and tried to mimic it in our robot.</p>
-<div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
-        <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
-                <g fill="currentColor"><g>
-                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
-                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
-                    <path fill="none" d="M0 0h24v24H0z"></path>
-                </g></g>
-            </svg>
-        </div>
-        <div class="pr-5 ml-3 w-full">
-<p><em>More details in future updates</em></p>
-        </div>
-    </div>
-</div>
-<p><figure class="content-center">
-    <img src="https://i.stack.imgur.com/ABuf0.jpg" alt="" />
-    <figcaption class="caption"></figcaption>
-</figure>
-</p>
-<figure>
-    <figcaption> A 4WD car turns with its two front wheels. Credit: <a href="https://physics.stackexchange.com/questions/183777/car-wheels-in-a-turn">Car wheels in a turn - Physics Stack Exchange</a></figcaption>
-</figure>
-<p><img src="../../../media/front-axle-steering.gif" alt="" /><figure>
-<figcaption> Example of simple front axle steering mechanism. Credit: <a href="https://youtu.be/kNf7N4m41UQ">Koshish all time - Youtube</a></figcaption></p>
-</figure>
-<p>To do this in a simpler way, we chose to replace two front wheels with omni wheels.</p>
-<div class="flex mb-6">
-    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
-    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
-        <div class="flex items-center ml-4 h-7">
-            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-500 dark:text-blue-400" width="22" height="22" viewBox="0 0 24 24" role="presentation">
-                <g fill="currentColor"><g>
-                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
-                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
-                    <path fill="none" d="M0 0h24v24H0z"></path>
-                </g></g>
-            </svg>
-        </div>
-        <div class="pr-5 ml-3 w-full">
-<p><em>More details in future updates</em></p>
-        </div>
-    </div>
-</div>
-<p>We had some 48mm and 58mm omni wheels available at our place.</p>
-<p>However, wheel detachments occurred during test drives. We found that the <strong>circumferential difference</strong> between the 65mm tractor wheels (the remaining wheels at the back) and the 48mm or 58mm omni wheels was too large and critical. This is because when the tractor wheels complete a full rotation, the omni wheels have already rotated more than once.</p>
-<p>In an effort to find a more suitable solution, we discovered open-source STL files for <a href="https://www.thingiverse.com/thing:2202328">DIY 65mm omni wheels</a> online. The majority of the components can be 3D printed, with the exception of some steel rods required to create the center poles for each of the omni wheel rollers, and heat shrink tubing to cover the rollers. Due to the design&#x27;s advantages and ease of construction, we decided to manufacture a <em><strong>test version</strong></em> on our 3D printer.</p>
+<p>We discovered open-sourced STL files for <a href="https://www.thingiverse.com/thing:2202328">DIY 65mm omni wheels</a> online. The majority of the components can be 3D printed, with the exception of some steel rods required to create the center poles for each of the omni wheel rollers, and heat shrink tubing to cover the rollers. Due to the design&#x27;s advantages and ease of construction, we decided to manufacture a <em><strong>test version</strong></em> on our 3D printer.</p>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
     <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
@@ -361,16 +307,23 @@ figcaption {
 </div>
 <p>Upon inspection of the test version, we determined that the diameter of our newly-made omni wheel was still smaller than the tractor wheels. The tractor wheels were actually around <strong>66 to 67mm</strong> in diameter, while our omni wheel was around <strong>62mm</strong> (including the rollers, which were covered). As a result, we had to redesign the omni wheel assembly files from scratch, using the provided STL files as a guide. We used Fusion 360 to create the CAD files.</p>
 <p><img src="../../../media/omni-wheel-calculation.png" alt="" /><figure>
-<figcaption>Recalculated version based on original design. Outer circle (the largest) is 66mm in diameter.</figcaption></p>
+<figcaption>New sketch with recalculated measurements. Outer circle (the largest) is 66mm in diameter.</figcaption></p>
 </figure>
 <p><img src="../../../media/omni-wheel-screenshot.jpg" alt="" /><figure>
 <figcaption>Finalized assemble file. Front view (above) and Back view (below).</figcaption></p>
 </figure>
+<p>
+<figure>
+    <div class="relative w-full mb-6 overflow-hidden pt-9/16">
+        <iframe class="w-full h-full border-0 absolute inset-0" src="https://www.youtube.com/embed/T2jld_Z10yM" allowfullscreen></iframe>
+    </div>
+</figure>
+</p>
 <p>We produced new omni wheels with the new files and their diameters fit really close to the tractor wheels&#x27; diameters.</p>
 <p><img src="../../../media/omni-wheel-compare.jpg" alt="" /><figure>
 <figcaption>Size comparison between 65mm tractor wheel and our DIY omni wheel. Upper &amp; lower left: with uncovered rollers. Upper &amp; lower right: with covered rollers.</figcaption></p>
 </figure>
-<p>The customized omni wheels enabled us to operate our robot car smoothly and without any car bumps. The steering performance of the robot car was also improved.</p>
+<p>The customized omni wheels enabled us to operate our robot car smoothly and without any car bumps. As a result, steering performance of the car was also improved.</p>
 <div class="flex mb-6">
     <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-500 dark:bg-blue-400"></div>
     <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
@@ -384,10 +337,21 @@ figcaption {
             </svg>
         </div>
         <div class="pr-5 ml-3 w-full">
-<p><em>Our special thanks to original creator <a href="https://www.thingiverse.com/anans1/designs">Christian Haataja</a> for the open source files.</em>\</p>
+<p><em>Our special thanks to original creator <a href="https://www.thingiverse.com/anans1/designs">Christian Haataja</a> for sharing his design.</em></p>
         </div>
     </div>
 </div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+</tr>
+</thead>
+</table>
+</div>
+<blockquote>
+<p>The overall construction of our chassis took one week. Final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs, and we were confident that the chassis would be able to withstand the rigors of competition.</p>
+</blockquote>
 <div class="table-wrapper scrollbar overflow-hidden">
 <table class="comfortable">
 <thead>
