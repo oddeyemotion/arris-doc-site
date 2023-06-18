@@ -36,6 +36,10 @@ Our choice of drivetrain is **Hybrid 4WD** - 4-wheel drive consists of 2 differe
 The construction of the chassis took one week. The final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs of the competition, and we were confident that the chassis would be able to withstand the rigors of competition.
 
 ### Customized omni wheels
+!!!
+STL files are now available on [Github](https://github.com/oddeyemotion/submarine/main/Hardware#diy-12-roller-omni-wheel) and [Thingiverse](https://www.thingiverse.com/thing:6040100).
+!!!
+
 ![](/projects/P04-submarine/media/assembled-omni-wheel.jpg)<figure>
     <figcaption>A complete omni wheel: front view (left) and back view (right). Designed to be compatible with hexagonal motor adapter.</figcaption>
 </figure>
@@ -91,7 +95,6 @@ The customized omni wheels enabled us to operate our robot car smoothly and with
 
 !!!
 *Our special thanks to original creator [Christian Haataja](https://www.thingiverse.com/anans1/designs) for the open source files.*\
-*Our 3D files will be updated soon...*
 !!!
 
 |
