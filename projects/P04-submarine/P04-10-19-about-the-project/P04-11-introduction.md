@@ -7,7 +7,7 @@ order: 90
 `Tags:` [!badge Submarine](/projects/P04-submarine.md) [!badge robot-car]()
 
 !!!
-To watch it move, check out [Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md) section.
+To watch it move, check out [Testing](/projects/P04-submarine/P04-30-39-technical-details/P04-34-testing.md).
 !!!
 
 

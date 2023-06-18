@@ -9,7 +9,7 @@ order: -100
 The site is still in alpha development phase.
 
 ### Acknowledged issues
-- The *Light theme* interface is not yet synchronized with the *Dark theme*. If the *Light theme* is the default, **please locate the moon toggle switch in the top right corner to enable dark mode**.
+- *Light theme* interface is not yet synchronized with the *Dark theme*. If *Light theme* is your default, **please locate the moon toggle switch in the top right corner to enable dark mode**.
 - The color of headings will not change to white upon initial load (they will appear in pink). Though this does not interfere with other functionalities, it is highly recommended to reload the site once to ensure that the custom CSS script is fully loaded before continuing.
 
 ![](/media/heading2.png)  | ![](/media/heading1.png) 
@@ -27,6 +27,14 @@ The site is still in alpha development phase.
 
 ### Change logs
 === Alpha stage
+> **Jun 19th, 2023**\
+[P04 Submarine](/projects/P04-submarine.md)
+> - Links to some 3D files of [Customized omni wheels]() and [Manipulator]() are now available.
+> - More pictures in [End effector]().
+> - Added [Chassis program logic]() and [Gripper program logic]() to [Software implementation]().
+> - Edited some parts in [Drivetrain]() and [project homepage](/projects/P04-submarine.md).
+
+
 > **May 20th > Jun 2nd, 2023**\
 A portion of the pages are available for reading.
 > - [Preface](/README.md)

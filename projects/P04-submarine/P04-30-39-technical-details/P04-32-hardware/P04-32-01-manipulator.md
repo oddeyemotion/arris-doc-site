@@ -28,7 +28,10 @@ It is capable of reaching ~70 cm of height.
 ### Framing
 Using 2020 aluminum extrusion.
 
-### Power transmission
+### Power transmission system
+!!!
+STL files are now available on [Github](https://github.com/oddeyemotion/submarine/tree/main/Hardware/gear-power-transmission-system) and [Thingiverse](https://www.thingiverse.com/thing:6084891).
+!!!
 
 ![](/projects/P04-submarine/media/1-1-gear-transmission.jpg)
 
@@ -57,6 +60,11 @@ The stepper motor is mechanically coupled to a pair of 1:1 gears, which transmit
 [!embed](https://youtu.be/vEQTLgSBcy8)<figure>
     <figcaption>Retrieving wheel for lift routing system</figcaption>
 </figure>
+
+### Linear slider
+!!!
+More details later
+!!!
 
 |
 --- | ---

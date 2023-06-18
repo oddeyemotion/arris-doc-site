@@ -27,30 +27,9 @@ We therefore decided to build our own robot car chassis from scratch. We chose t
 
 ![](/projects/P04-submarine/media/drivetrain1.jpg)
 
-Our choice of drivetrain is **Hybrid 4WD** - 4-wheel drive consists of 2 different pairs of wheel of different type.
-
-!!!
-*More details in future updates*
-!!!
-
-The construction of the chassis took one week. The final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs of the competition, and we were confident that the chassis would be able to withstand the rigors of competition.
-
-### Customized omni wheels
-!!!
-STL files are now available on [Github](https://github.com/oddeyemotion/submarine/main/Hardware#diy-12-roller-omni-wheel) and [Thingiverse](https://www.thingiverse.com/thing:6040100).
-!!!
-
-![](/projects/P04-submarine/media/assembled-omni-wheel.jpg)<figure>
-    <figcaption>A complete omni wheel: front view (left) and back view (right). Designed to be compatible with hexagonal motor adapter.</figcaption>
-</figure>
-
-Our team initially used four 65mm tractor wheels for the frame of our robot. However, when operating the vehicle, we observed **car bumps**. Additionally, the car **cannot steer or turn in an expected path**. This is because the friction between the wheels and the ground caused the wheels to grip the ground, and there is no way to guarantee that all wheels would make contact with the ground in the same way.
+As for the wheeling system, our team initially used four identical 65mm tractor wheels. However, when operating the vehicle, we observed **car bumps**. Additionally, the car **cannot steer or turn in an expected path**. This is because the friction between the wheels and the ground caused the wheels to grip the ground, and there is no way to guarantee that all wheels would make contact with the ground in the same way.
 
 To address this issue, we learned about the **front axle steering mechanism** in cars and tried to mimic it in our robot. 
-
-!!!
-*More details in future updates*
-!!!
 
 ![](https://i.stack.imgur.com/ABuf0.jpg)
 <figure>
@@ -61,15 +40,20 @@ To address this issue, we learned about the **front axle steering mechanism** in
     <figcaption> Example of simple front axle steering mechanism. Credit: <a href="https://youtu.be/kNf7N4m41UQ">Koshish all time - Youtube</a></figcaption>
 </figure>
 
-To do this in a simpler way, we chose to replace two front wheels with omni wheels. 
-!!!
-*More details in future updates*
-!!!
-We had some 48mm and 58mm omni wheels available at our place. 
+To do this in a simpler way, we chose to replace two front wheels with omni wheels. This variation of drivetrain is called **Hybrid 4WD** - 4-wheel drive consists of 2 different pairs of wheel of different type. We began the test with some 48mm and 58mm omni wheels laying around at our work station. However, wheel detachments occurred during test drives. We found that the **circumferential difference** between the remaining wheels at the back (65mm) and our omni wheels (48mm and 58mm) was too large and critical. This is because when the tractor wheels complete a full rotation, the omni wheels have already rotated more than once.
 
-However, wheel detachments occurred during test drives. We found that the **circumferential difference** between the 65mm tractor wheels (the remaining wheels at the back) and the 48mm or 58mm omni wheels was too large and critical. This is because when the tractor wheels complete a full rotation, the omni wheels have already rotated more than once.
+In an effort to find a more suitable solution, we came across a creative approach that involved self-manufacture and mechanical design knowledge.
 
-In an effort to find a more suitable solution, we discovered open-source STL files for [DIY 65mm omni wheels](https://www.thingiverse.com/thing:2202328) online. The majority of the components can be 3D printed, with the exception of some steel rods required to create the center poles for each of the omni wheel rollers, and heat shrink tubing to cover the rollers. Due to the design's advantages and ease of construction, we decided to manufacture a ***test version*** on our 3D printer.
+### Customized omni wheels
+!!!
+STL files are now available on [Github](https://github.com/oddeyemotion/submarine/tree/main/Hardware/diy-12-roller-omni-wheel) and [Thingiverse](https://www.thingiverse.com/thing:6040100).
+!!!
+
+![](/projects/P04-submarine/media/assembled-omni-wheel.jpg)<figure>
+    <figcaption>A complete omni wheel: front view (left) and back view (right). Designed to be compatible with hexagonal motor adapter.</figcaption>
+</figure>
+
+We discovered open-sourced STL files for [DIY 65mm omni wheels](https://www.thingiverse.com/thing:2202328) online. The majority of the components can be 3D printed, with the exception of some steel rods required to create the center poles for each of the omni wheel rollers, and heat shrink tubing to cover the rollers. Due to the design's advantages and ease of construction, we decided to manufacture a ***test version*** on our 3D printer.
 
 !!!
 More info about this test version will be available at [Version archive](/projects/P04-submarine/P04-30-39-technical-details/P04-37-version-archive.md) in future updates
@@ -78,12 +62,14 @@ More info about this test version will be available at [Version archive](/projec
 Upon inspection of the test version, we determined that the diameter of our newly-made omni wheel was still smaller than the tractor wheels. The tractor wheels were actually around **66 to 67mm** in diameter, while our omni wheel was around **62mm** (including the rollers, which were covered). As a result, we had to redesign the omni wheel assembly files from scratch, using the provided STL files as a guide. We used Fusion 360 to create the CAD files.
 
 ![](/projects/P04-submarine/media/omni-wheel-calculation.png)<figure>
-    <figcaption>Recalculated version based on original design. Outer circle (the largest) is 66mm in diameter.</figcaption>
+    <figcaption>New sketch with recalculated measurements. Outer circle (the largest) is 66mm in diameter.</figcaption>
 </figure>
 
 ![](/projects/P04-submarine/media/omni-wheel-screenshot.jpg)<figure>
     <figcaption>Finalized assemble file. Front view (above) and Back view (below).</figcaption>
 </figure>
+
+[!embed](https://youtu.be/T2jld_Z10yM)
 
 We produced new omni wheels with the new files and their diameters fit really close to the tractor wheels' diameters.
 
@@ -91,11 +77,16 @@ We produced new omni wheels with the new files and their diameters fit really cl
     <figcaption>Size comparison between 65mm tractor wheel and our DIY omni wheel. Upper & lower left: with uncovered rollers. Upper & lower right: with covered rollers.</figcaption>
 </figure>
 
-The customized omni wheels enabled us to operate our robot car smoothly and without any car bumps. The steering performance of the robot car was also improved.
+The customized omni wheels enabled us to operate our robot car smoothly and without any car bumps. As a result, steering performance of the car was also improved.
 
 !!!
-*Our special thanks to original creator [Christian Haataja](https://www.thingiverse.com/anans1/designs) for the open source files.*\
+*Our special thanks to original creator [Christian Haataja](https://www.thingiverse.com/anans1/designs) for sharing his design.*
 !!!
+
+|
+--- | ---
+
+> The overall construction of our chassis took one week. Final product was a strong and reliable platform that met all of our requirements. We were able to customize the design of the car to meet the specific needs, and we were confident that the chassis would be able to withstand the rigors of competition.
 
 |
 --- | ---
