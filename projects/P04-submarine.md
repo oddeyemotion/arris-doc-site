@@ -5,21 +5,19 @@ order: 50
 ---
 # :game_die: Submarine
 
+!!!
+Please **<span class="nes-text is-error">enable Dark mode</span>** (the *moon* icon on the top left of this page) as Light mode is currently not functioning as intended.
+!!!
+
 Welcome to the official documentation home for *Submarine*. This page is the primary resource documenting everything in detail.
 
-![Our robot (left)](/projects/P04-submarine/media/intro-submarine.jpg)
+![Our robot (left)](/media/project-submarine.jpg)
 
 ### Quick navigation
-> Read the brief description at\
-[Introduction](/projects/P04-submarine/P04-10-19-about-the-project/P04-11-introduction.md).
-
-> See how we built this robot car in\
-[Hardware implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-32-hardware.md).
-
-> Source code snippets with detailed explaination\
-[Software implementation](/projects/P04-submarine/P04-30-39-technical-details/P04-33-software.md).
-
-> Finally, a full list of other sections in this documentation can be found at [Index](/projects/P04-submarine/P04-10-19-about-the-project/P04-10-index.md).
+<a class="nes-btn is-success" href="https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-10-19-about-the-project/p04-11-introduction/"><span class="nes-text" style="color: #fff;">Read the brief description</span></a>
+<a class="nes-btn is-error" href="https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-32-hardware/"><span class="nes-text" style="color: #fff;">How we built this robot car</span></a>
+<a class="nes-btn is-warning" href="https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-30-39-technical-details/p04-33-software/"><span class="nes-text" style="color: #fff;">Source code with explaination</span></a>
+<a class="nes-btn is-primary" href="https://oddeyemotion.github.io/odd/projects/p04-submarine/p04-10-19-about-the-project/p04-10-index/"><span class="nes-text" style="color: #fff;">Full index of all sections</span></a>
 
 |
 --- | ---

@@ -4,11 +4,14 @@ label: P00⠀Rhythmic Pulse
 order: 90
 ---
 # :icon-cloud-offline: Rhythmic Pulse
-:icon-mark-github: ⠀[Github](https://github.com/oddeyemotion/rhythmic-pulse)
+
+![](/media/project-rhythmic-pulse.jpg)
 
 !!!
 *Available in future updates*
 !!!
+
+:icon-mark-github: ⠀[Github](https://github.com/oddeyemotion/rhythmic-pulse)
 
 |
 --- | ---

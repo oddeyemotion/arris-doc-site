@@ -4,7 +4,10 @@ label: Contact and emailing
 ---
 # :icon-comment-discussion: Contact and emailing
 
-#### Email
+!!!
+Please **<span class="nes-text is-error">enable Dark mode</span>** (the *moon* icon on the top left of this page) as Light mode is currently not functioning as intended.
+!!!
+
 <section class="message-list">
       <section class="message -left">
 		<i style="margin-bottom:-60px;" class="nes-octocat animate"></i>
@@ -22,7 +25,7 @@ label: Contact and emailing
 </section>
 <p></p>
 
-#### Social medias & forums
+
 <a title="Facebook" href="https://commons.wikimedia.org/wiki/File:2021_Facebook_icon.svg"><img width="21" alt="2021 Facebook icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/128px-2021_Facebook_icon.svg.png"></a> ⠀Facebook - [Hằng Lê](https://www.facebook.com/oddeyemotion/)\
 :icon-mark-github: ⠀Github - [oddeyemotion](https://github.com/oddeyemotion)\
 :icon-dependabot: ⠀Thingiverse - [oddeyemotion](https://www.thingiverse.com/oddeyemotion)\
