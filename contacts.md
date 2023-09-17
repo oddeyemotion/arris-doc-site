@@ -30,7 +30,7 @@ Please **<span class="nes-text is-error">enable Dark mode</span>** (the *moon* i
 :icon-mark-github: ⠀Github - [oddeyemotion](https://github.com/oddeyemotion)\
 :icon-dependabot: ⠀Thingiverse - [oddeyemotion](https://www.thingiverse.com/oddeyemotion)\
 :icon-dependabot: ⠀GrabCAD - [oddeyemotion](https://grabcad.com/oddeyemotion-1)\
-:icon-dependabot: ⠀Project Cocoon - [Hang Le](https://projectcocoon.org/users/561/hang-le/profile)\
+:icon-dependabot: ⠀Project Cocoon - [Hang Le](https://projectcocoon.org/users/561/hang-le/profile)
 
 <figure>
     <img src="https://64.media.tumblr.com/d103eb823dce2842c673f409f036857b/tumblr_mzx9wrdwFa1snc5kxo1_1280.gifv" alt="Credit: @transparent-angel on Tumblr">
