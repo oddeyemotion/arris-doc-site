@@ -1,0 +1,357 @@
+{
+  "version": "3.6.0",
+  "created": "2025-01-07T08:43:26Z",
+  "files": [
+    {
+      "path": "_includes\\svncodercrux-webfont.svg"
+    },
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "about-me\\index.html"
+    },
+    {
+      "path": "additional-studies\\a00-competitive-robot-basic-101\\a00-00-competitive-robot-structure\\index.html"
+    },
+    {
+      "path": "additional-studies\\a00-competitive-robot-basic-101\\a00-01-drive-methods\\index.html"
+    },
+    {
+      "path": "additional-studies\\a00-competitive-robot-basic-101\\a00-02-choosing-components\\index.html"
+    },
+    {
+      "path": "additional-studies\\a00-competitive-robot-basic-101\\a00-03-team-planning\\index.html"
+    },
+    {
+      "path": "additional-studies\\a00-competitive-robot-basic-101\\index.html"
+    },
+    {
+      "path": "additional-studies\\a00-competitive-robot-basic-101\\media\\workshop-screenshot1.png"
+    },
+    {
+      "path": "additional-studies\\a00-competitive-robot-basic-101\\media\\workshop-screenshot2.png"
+    },
+    {
+      "path": "contacts\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "media\\about-me1.jpg"
+    },
+    {
+      "path": "media\\about-me2.jpg"
+    },
+    {
+      "path": "media\\about-me3.png"
+    },
+    {
+      "path": "media\\adhd.jpg"
+    },
+    {
+      "path": "media\\heading1.png"
+    },
+    {
+      "path": "media\\heading2.png"
+    },
+    {
+      "path": "media\\note-taking.png"
+    },
+    {
+      "path": "media\\potential-attack.jpg"
+    },
+    {
+      "path": "media\\project-covid.png"
+    },
+    {
+      "path": "media\\project-rhythmic-pulse.jpg"
+    },
+    {
+      "path": "media\\project-submarine.jpg"
+    },
+    {
+      "path": "media\\project-tyro.png"
+    },
+    {
+      "path": "media\\question-mark.jpg"
+    },
+    {
+      "path": "projects\\navigation-page\\index.html"
+    },
+    {
+      "path": "projects\\p00-rhythmic-pulse\\index.html"
+    },
+    {
+      "path": "projects\\p00-rhythmic-pulse\\media\\rp-circuit.png"
+    },
+    {
+      "path": "projects\\p01-covid-19-data\\index.html"
+    },
+    {
+      "path": "projects\\p02-the-almighty-ruler\\index.html"
+    },
+    {
+      "path": "projects\\p03-tyro\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\1-1-gear-transmission.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\3d-printer.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\assembled-omni-wheel.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\calculations.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\cardboard-assembled.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\cardboard-main.png"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\cardboard-main1.png"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\circuit-temp.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\drivetrain1.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\elevator1.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\front-axle-steering.gif"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\game-field-drawing.png"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\game-rule1.png"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\game-rule2.png"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\goggly-eyes1.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\gripper-hand-final-ver-fish.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\gripper1.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\intro-submarine2.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\l293-diy.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\omni-wheel-calculation.png"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\omni-wheel-compare.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\omni-wheel-screenshot.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\pre-built-robot-cars-vn.png"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\pre-elimination1.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\pre-knock-out1.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\pre-knock-out2.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\pre-preliminary1.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\team-submarine.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\toggle-switch-lmao.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\media\\transmission-close-up.jpg"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-10-index\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-11-introduction\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-12-mission\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-12-mission\\p04-12-00-about-merc\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-12-mission\\p04-12-01-terms\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-12-mission\\p04-12-02-tasks\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-13-team-submarine\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-14-license\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-15-contact\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-16-other-sites\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-17-acknowledgements\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-10-19-about-the-project\\p04-18-references\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-20-target\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-21-schedules\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-22-costs\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-23-resources\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-24-risks\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-25-rules\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-26-training\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-20-29-project-management\\p04-27-media\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-30-the-design\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-31-equipment\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-31-equipment\\p04-31-00-mechanical-equipment\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-31-equipment\\p04-31-01-electrical-equipment\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-31-equipment\\p04-31-02-heavy-machinery\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-32-hardware\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-32-hardware\\p04-32-00-drivetrain\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-32-hardware\\p04-32-01-manipulator\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-32-hardware\\p04-32-02-ee\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-32-hardware\\p04-32-03-control-system\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-33-software\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-33-software\\p04-33-00-chassis\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-33-software\\p04-33-01-gripper\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-34-testing\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-35-performance\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-36-optimization\\index.html"
+    },
+    {
+      "path": "projects\\p04-submarine\\p04-30-39-technical-details\\p04-37-version-archive\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\prism.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\custom.css"
+    },
+    {
+      "path": "updates\\index.html"
+    }
+  ]
+}
