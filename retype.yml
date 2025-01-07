@@ -1,6 +1,5 @@
 input: .
 output: .retype
-<<<<<<< Updated upstream
 url: https://oddnimatronics.github.io/odd/
 
 branding:
@@ -25,14 +24,3 @@ footer:
   
 editor:
   enabled: false
-=======
-url: # Add your website address here
-branding:
-  title: Project Name
-  label: Docs
-links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
-footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
->>>>>>> Stashed changes
