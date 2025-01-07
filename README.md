@@ -5,7 +5,7 @@ label: Preface
 # :icon-dependabot: Preface
 
 !!!
-1 - Please **<span class="nes-text is-error">enable Dark mode</span>** (the *moon* icon on the top left of this page) as Light mode is currently not functioning as intended.\
+1 - Please **<span class="nes-text is-error">enable Dark mode</span>** (the *moon* icon on the top right of this page) as Light mode is currently not functioning as intended.\
 2 - It is highly recommended to **<span class="nes-text is-error">reload the site once</span>** to ensure the all the scripts are fully loaded before continuing.
 !!!
 
@@ -24,13 +24,13 @@ figcaption {
 </figure>
 
 
-[Odd](https://oddeyemotion.github.io/odd/) was created by [Arris](/about-me.md) (myself) as a personal portfolio to showcase some of my [projects](/projects/navigation-page.md) related to both Computer Science and Robotics.\
+[Odd](https://oddnimatronics.github.io/odd/) was created by [Arris](/about-me.md) (myself) as a personal portfolio to showcase some of my [projects](/projects/navigation-page.md) related to both Computer Science and Robotics.\
 As the name suggests - *Odd*, this site is quite a haven for the strange and unusual. 
 
-<a class="nes-btn is-success" href="https://oddeyemotion.github.io/odd/about-me/"><span class="nes-text" style="color: #fff;">About me</span></a>
-<a class="nes-btn is-error" href="https://oddeyemotion.github.io/odd/projects/navigation-page/"><span class="nes-text" style="color: #fff;">My projects</span></a>
-<a class="nes-btn is-warning" href="https://oddeyemotion.github.io/odd/contacts/"><span class="nes-text" style="color: #fff;">Contact</span></a>
-<a class="nes-btn is-primary" href="https://oddeyemotion.github.io/odd/updates/"><span class="nes-text" style="color: #fff;">Development notices</span></a>
+<a class="nes-btn is-success" href="https://oddnimatronics.github.io/odd/about-me/"><span class="nes-text" style="color: #fff;">About me</span></a>
+<a class="nes-btn is-error" href="https://oddnimatronics.github.io/odd/projects/navigation-page/"><span class="nes-text" style="color: #fff;">My projects</span></a>
+<a class="nes-btn is-warning" href="https://oddnimatronics.github.io/odd/contacts/"><span class="nes-text" style="color: #fff;">Contact</span></a>
+<a class="nes-btn is-primary" href="https://oddnimatronics.github.io/odd/updates/"><span class="nes-text" style="color: #fff;">Development notices</span></a>
 
 I reaaaaally hope I could get an internship somewhere in the industry :<
 
@@ -45,8 +45,8 @@ As a [neurodivergent](https://www.verywellmind.com/what-is-neurodivergence-and-w
 Particularly, in project-based learning, **documentation** is an essential tool to optimize future engineering projects. Relying solely on memory to get work done can lead to forgetting important steps, such as creating backup files or editing certain points. Through thorough documentation of the process, it becomes easy to refer back and avoid getting lost or distracted. By providing a guide, one can follow the instructions to ensure consistent and predictable outcomes every time. This not only saves time and prevents frustration, but also provides a clear record of what has been done, which is beneficial for revisiting a project later or handing it off to someone else. Proper documentation also enables identification of areas for improvement and refining the process over time with confidence.
 
 <figure>
-    <img src="https://raw.githubusercontent.com/oddeyemotion/odd/main/media/note-taking.png" alt="Personal note space I used in my lastest project - Submarine">
-    <figcaption>Personal note space I used in my lastest project <a href="https://oddeyemotion.github.io/odd/projects/p04-submarine/">Submarine</a>.</figcaption>
+    <img src="https://raw.githubusercontent.com/oddnimatronics/odd/main/media/note-taking.png" alt="Personal note space I used in my lastest project - Submarine">
+    <figcaption>Personal note space I used in my lastest project <a href="https://oddnimatronics.github.io/odd/projects/p04-submarine/">Submarine</a>.</figcaption>
 </figure>
 
 In other words, maintaining the habit of recapitulate everything in as much detail as possible helps ensure expectations, promotes uniformity, and provides a legacy. Therefore, lead to more successful and efficient projects.
