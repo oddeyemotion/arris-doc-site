@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://oddeyemotion.github.io/odd/sitemap.xml.gz
