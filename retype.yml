@@ -1,20 +1,19 @@
 input: .
 output: .retype
-url: https://oddeyemotion.github.io/odd/
+url: https://oddnimatronics.github.io/odd/
 
 branding:
-  title: o_x
+  title: [o_x]
   colors:
     label:
       text: "#6E4E20"
   
 meta:
-  title: " - @oddeyemotion's Project Documentation"
+  title: " - @[o_x]nimatronics's Project Documentation"
   
 links:
 - text: Github
-  link: https://github.com/oddeyemotion
-  icon: mark-github
+  link: https://github.com/oddnimatronics  icon: mark-github
   
 - text: Home
   link: /README.md
